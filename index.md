@@ -8,8 +8,9 @@
 - Informal Sessions: Br Willy's Pub, Sexton Commons, St. John's University, Collegeville, MN
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
+<!--
 ![2020 Collegeville Workshop on Developer Productivity for Scientific Software - Attendees](CWSS20-DP-Attendees.jpg "2019 Collegeville Workshop on Developer Productivity for Scientific Software - Attendees")
-
+-->
 ### Details
 - [**Agenda**](Agenda.md)
 - [**Detailed Agenda**](CWSS20-DP-Agenda.pdf)
