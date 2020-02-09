@@ -4,6 +4,7 @@
 
 ## List of presentations:
 
+<!---
 ### Session 1: Defining Sustainability
 - [Michael Heroux: Workshop Introduction](1-1-HerouxIntroduction.pdf)
 - [Anshu Dubey: WHAT IS SUSTAINABILITY FROM A LARGE MULTIPHYSICS SOFTWARE PERSPECTIVE](1-2-sustainability_collegeville.pdf)
@@ -28,3 +29,4 @@
 - [Greg Watson: A Scientific Approach to Developing Scientific Software](4-3-CW3S19_watson.pdf)
 - [Sandra Gesing: OneSciencePlace: Sustainability Measures for a Science Gateway Framework](4-4-OneSciencePlaceSandraGesing.pdf)
 - [Daniel S. Katz: Data-Driven Software Sustainability](4-5-Katz_data-driven-software-sustainability.pdf)
+--->

@@ -3,6 +3,7 @@
 [**All White Papers: WhitePapersBundle.zip**](../WhitePapersBundle.zip)
 
 ## List of papers:
+<!--
 - [Bernholdt, David: Open Sourcing Your Software is Not a Sustainability Strategy -- Until it Is!](bernholdt-open-source-v02.pdf)
 - [Carver, Jeffrey: Software Engineering for Sustainable Scientific Software: A Postion Paper for the 2019 Collegeville Workshop on Sustainable Scientic Software](Carver-SoftwareEngineering.pdf)
 - [Chue Hong, Neil: Making open source research software visible: new models for sustaining research software development](ChueHongMakingOpenSourceResearchSoftwareVisible.pdf)
@@ -27,3 +28,4 @@
 - [Watson, Greg: A Scientific Approach to Developing Scientific Software](CW3S19_watson.pdf)
 - [Willenbring, James M: The Layers of CSE Software Sustainability](CSEswSustainabilityLayers.pdf)
 - [Windus: Software Sustainability in the Molecular Sciences](WindusSustainabilityInMolecularSciences.pdf)
+-->
