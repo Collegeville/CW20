@@ -11,8 +11,20 @@
 <!--
 ![2020 Collegeville Workshop on Developer Productivity for Scientific Software - Attendees](CWSS20-DP-Attendees.jpg "2019 Collegeville Workshop on Developer Productivity for Scientific Software - Attendees")
 -->
+
+
 ### Details
 - [**Agenda**](Agenda.md)
+- [**Background**](Background.md)
+- [**Workshop Goals and Format**](GoalsFormat.md)
+- [**Workshop Venue**](Venue.md)
+- [**Organizers**](Organizers.md)
+- [**Resources**](Resources.md)
+- [**Transportation**](Transportation.md)
+- [**Campus Map**](SJU-Campus-Map.pdf)
+- [**Campus Code-of-Conduct Policy**](https://www.csbsju.edu/joint-student-development/title-ix)
+
+<!---
 - [**Detailed Agenda**](CWSS20-DP-Agenda.pdf)
 - [**White Papers**](WorkshopResources/WhitePapers/WhitePaperList.md)
 - [**All White Papers: WhitePapersBundle.zip**](WorkshopResources/WhitePapersBundle.zip)
@@ -20,13 +32,7 @@
 - [**All Presentations: PresentationsBundle.zip**](WorkshopResources/PresentationsBundle.zip)
 - [**Attendees**](Attendees.md)
 - [**Discussion Groups**](DiscussionGroups.md)
-- [**Background**](Background.md)
-- [**Workshop Goals and Format**](GoalsFormat.md)
-- [**Workshop Venue**](Venue.md)
-- [**Resources**](Resources.md)
-- [**Organizers**](Organizers.md)
-- [**Transportation**](Transportation.md)
 - [**Ride Sharing**](Ride_sharing.md)
 - [**Workshop Registration and Housing Reservations**](Registration.md)
-- [**Campus Map**](SJU-Campus-Map.pdf)
-- [**Campus Code-of-Conduct Policy**](https://www.csbsju.edu/joint-student-development/title-ix)
+--->
+
