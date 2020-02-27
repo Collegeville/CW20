@@ -2,7 +2,7 @@
 
 - Mike Heroux, Sandia National Laboratories, St. John's University
 - Wolfgang Bangerth, Colorado State University
-- Vadim Dyandechko, ExxonMobil Corporation
+- Vadim Dyadechko, ExxonMobil Corporation
 - Jacob Hemstad, Nvidia Corp.
 - Lois Curfman McInnes, Argonne National Laboratory
 - Siva Rajamanickam, Sandia National Laboratories
