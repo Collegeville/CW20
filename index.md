@@ -4,10 +4,12 @@
 ### 2020 Virtual Collegeville Workshop on Developer Productivity for Scientific Software (CWSS20)
 
 - 7:00 pm Monday, July 13 through late Thursday, July 16, 2020.  Depart, Friday, July 17, 2020.
+
 <!--
 - Plenary Sessions: Room 264, Quadrangle Building, St. John's University, Collegeville, MN
 - Informal Sessions: Br Willy's Pub, Sexton Commons, St. John's University, Collegeville, MN
 -->
+
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
 <!--
@@ -22,6 +24,7 @@
 - [**Workshop Venue**](Venue.md)
 - [**Organizers**](Organizers.md)
 - [**Resources**](Resources.md)
+
 <!--
 - [**Transportation**](Transportation.md)
 - [**Campus Map**](SJU-Campus-Map.pdf)
