@@ -8,8 +8,5 @@
 - Lois Curfman McInnes, Argonne National Laboratory
 - Siva Rajamanickam, Sandia National Laboratories
 - James Willenbring, Sandia National Laboratories
-
-<!---
 - Eric Bavier, Cray, Inc.
 - Pat Quillen, MathWorks, Inc.
---->
