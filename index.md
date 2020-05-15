@@ -3,7 +3,7 @@
 
 ### 2020 Virtual Collegeville Workshop on Developer Productivity for Scientific Software (CWSS20)
 
-- 7:00 pm Monday, July 13 through late Thursday, July 16, 2020.  <!-- Depart, Friday, July 17, 2020. -->
+- 7:00 pm US Central Time Monday, July 13 through late Thursday, July 16, 2020.  <!-- Depart, Friday, July 17, 2020. -->
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
 <!--

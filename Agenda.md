@@ -3,6 +3,8 @@
 
 ### [Detailed Agenda (PDF)](CWSS20-DP-Agenda.pdf)
 
+**All times are US Central Daylight Savings**
+
 ### Monday, July 13
 -  7:00 pm Opening Reception <!-- - Sexton Commons -->
 
@@ -11,7 +13,7 @@
 -  8:30 am - 12:00 pm Session 1: Defining Productivity <!-- - Quad 264 -->
 <!-- - 12:00 pm Lunch - Refectory -->
 -  1:30 pm - 5:00 pm Session 2: Productivity Challenges <!-- - Quad 264 -->
--  5:00 - 6:30 pm Dinner <!-- - Refectory -->
+ <!-- -  5:00 - 6:30 pm Dinner - Refectory -->
 -  7:00 pm Informal discussions <!-- - Sexton Commons -->
 
 ### Wednesday, July 15 - **Cultural Approaches for Improved Productivity**
@@ -20,7 +22,7 @@
 <!-- - 12:00 pm Lunch - Refectory -->
 -  1:30 pm - 5:00 pm Informal Events
 <!-- -  5:00 - 6:30 pm Dinner - Refectory (Optional) -->
--  7:00 pm Poster Reception <!-- - Alcuin Library -->
+-  7:00 pm Poster Session <!-- - Alcuin Library -->
 
 ### Thursday, July 16 - **Technical Approaches for Improved Productivity**
 <!-- -  7:00 - 8:30 am Breakfast - Refectory -->
