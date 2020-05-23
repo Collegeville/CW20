@@ -1,6 +1,6 @@
 # 2020 Collegeville Workshop on Scientific Software Attendees
 
-To edit this page, use a pull request for the [page source on GitHub.](https://github.com/Collegeville/CWSS20-DP/edit/master/Attendees.md)
+To edit this page, use a pull request for the [page source on GitHub.](https://github.com/Collegeville/CW20/edit/master/Attendees.md)
 
 Or let me know you want your name listed and send me your URL if you have one: <maherou@sandia.gov>
 

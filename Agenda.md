@@ -1,7 +1,7 @@
 
 ## Agenda
 
-### [Detailed Agenda (PDF)](CWSS20-DP-Agenda.pdf)
+### [Detailed Agenda (PDF)](CW20-Agenda.pdf)
 
 **All times are US Central Daylight Savings**
 
