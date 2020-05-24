@@ -12,6 +12,8 @@
 [2020 Collegeville Workshop on Developer Productivity for Scientific Software - Attendees](CWSS20-DP-Attendees.jpg "2019 Collegeville Workshop on Developer Productivity for Scientific Software - Attendees")
 -->
 
+![](assets/CollegevilleWorkshopBanner.pdf)
+
 
 ### Details
 - [**Agenda**](Agenda.md)
