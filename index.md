@@ -1,10 +1,6 @@
 
-## CW20 Home
+## Collegeville 2020 Home
 
-### 2020 Virtual Collegeville Workshop on Developer Productivity for Scientific Software (CW20)
-
-- Tuesday, July 21 - Thursday, July 23, 2020.
-- Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
 <!--
 - Plenary Sessions: Room 264, Quadrangle Building, St. John's University, Collegeville, MN
@@ -16,6 +12,7 @@
 
 
 ### Details
+- Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 - [**Agenda**](Agenda.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
