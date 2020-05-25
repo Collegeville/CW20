@@ -1,6 +1,6 @@
 # CW20-DP
 2020 Virtual Collegeville Workshop on Scientific Software - Developer Productivity
 
-This workshop will be held July 21 - 23, 2020.
+This year's event will be virtual.  We hope to return to the St. John's University campus during July 2021.
 
-Details will be available soon.
+#### [Back to Main Page](index.md)

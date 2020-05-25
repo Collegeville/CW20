@@ -6,3 +6,5 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 ## List of papers:
 - [Lastname, Firstname: Title](file.pdf)
+
+#### [Back to Main Page](../index.md)
