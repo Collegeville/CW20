@@ -1,4 +1,4 @@
-## Contribute to Collegeville 2020!
+## Contribute to Collegeville 2020
 
 Workshop attendees are encouraged to submit content to build the program of Collegeville 2020.  We welcome the following contributions:
 
@@ -30,3 +30,6 @@ Workshop attendees are encouraged to submit content to build the program of Coll
 - How to submit your teatime theme and abstract:
   - Option 1: Submit a pull request. Instruction and current white papers are on [this page.](https://collegeville.github.io/CW20/WorkshopResources/TeatimeThemes/TeatimeThemeList.html)
   - Option 2: Submit your teatime theme and abstract in PDF form as an email attachment to Mike Heroux <maherou@sandia.gov>.
+
+
+  #### [Back to Main Page](index.md)

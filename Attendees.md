@@ -8,6 +8,7 @@ Please organize alphabetically by last name.
 
 ## List of Attendees (with URLs if available):
 
+#### [Back to Main Page](index.md)
 <!---
 
 - [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/)
