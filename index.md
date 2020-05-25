@@ -1,20 +1,14 @@
 
-## Collegeville 2020 Home
-
-
-<!--
-- Plenary Sessions: Room 264, Quadrangle Building, St. John's University, Collegeville, MN
-- Informal Sessions: Br Willy's Pub, Sexton Commons, St. John's University, Collegeville, MN
-[2020 Collegeville Workshop on Developer Productivity for Scientific Software - Attendees](CWSS20-DP-Attendees.jpg "2019 Collegeville Workshop on Developer Productivity for Scientific Software - Attendees")
--->
+# Collegeville 2020 Home
 
 ![](assets/CollegevilleWorkshopBanner.pdf)
 
 
 ### Details
-- [**Agenda**](Agenda.md)
+- [**Contribute**](Contribute.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
+- [**Agenda**](Agenda.md)
 - [**Organizers**](Organizers.md)
 - [**Resources**](Resources.md)
 - Contact: Mike Heroux

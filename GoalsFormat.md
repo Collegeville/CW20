@@ -10,4 +10,4 @@ Through white papers, recorded presentations and live Q&A sessions and group des
 
 ### Format
 
-Due to the pandemic, Collegeville 2020 will be an entirely virtual event.  As the diagram above shows, we are soliciting white papers, posters and teatime themes contributions from the community.  From these contributions we will build the detailed program.  Details for submitting are on the [Contribue](Contribute.md) page.
+Due to the pandemic, Collegeville 2020 will be an entirely virtual event.  As the diagram above shows, we are soliciting white papers, posters and teatime themes contributions from the community.  From these contributions we will build the detailed program.  Details for submitting are on the [Contribute](Contribute.md) page.
