@@ -20,7 +20,7 @@ Workshop attendees are encouraged to submit content to build the program of Coll
 - Poster sessions will be conducted during teatimes.  We will run discussions concurrently and keep the discussion groups small enough for interactive dialogue.
 - Posters can be PDF files of a few slides or an interactive webpage.  The intent is to have content that conveys your ideas in a small group dialogue.
 - How to submit your poster:
-  - Option 1: Submit a pull request. Instruction and current white papers are on [this page.](https://collegeville.github.io/CW20/WorkshopResources/Posters/PosterList.html)
+  - Option 1: Submit a pull request. Instruction and current posters are on [this page.](https://collegeville.github.io/CW20/WorkshopResources/Posters/PosterList.html)
   - Option 2: Submit your poster in PDF form as an email attachment or send the interactive webpage URL to Mike Heroux <maherou@sandia.gov>.
 
 ### Teatime theme guidelines and submission
@@ -28,7 +28,7 @@ Workshop attendees are encouraged to submit content to build the program of Coll
 - In order to provide a bit of structure to the discussion, we invite you to submit a teatime theme related to developer productivity.
 - If your theme is selected, we invite you to facilitate a discussion on your theme during the concurrent breakout sessions.
 - How to submit your teatime theme and abstract:
-  - Option 1: Submit a pull request. Instruction and current white papers are on [this page.](https://collegeville.github.io/CW20/WorkshopResources/TeatimeThemes/TeatimeThemeList.html)
+  - Option 1: Submit a pull request. Instruction and current teamtime themes are on [this page.](https://collegeville.github.io/CW20/WorkshopResources/TeatimeThemes/TeatimeThemeList.html)
   - Option 2: Submit your teatime theme and abstract in PDF form as an email attachment to Mike Heroux <maherou@sandia.gov>.
 
 
