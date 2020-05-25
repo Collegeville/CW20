@@ -7,4 +7,4 @@ Add your poster information to the list.  If you are submitting a PDF file, plea
 ## List of posters:
 - [Lastname, Firstname: Title](file.pdf-or-URL)
 
-#### [Back to Main Page](../index.md)
+#### [Back to Main Page](../../index.md)

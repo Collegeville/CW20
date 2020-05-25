@@ -7,4 +7,4 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 ## List of teatime themes:
 - [Lastname, Firstname: Title](abstract.pdf)
 
-#### [Back to Main Page](../index.md)
+#### [Back to Main Page](../../index.md)
