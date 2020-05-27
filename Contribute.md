@@ -2,10 +2,13 @@
 
 Workshop attendees are encouraged to submit content to build the program of Collegeville 2020.  We welcome the following contributions:
 
-- **White paper: (Due June 26)** A brief document articulating impediments, challenges, opportunities and potential solutions to developer productivity for scientific software.
-- **Recorded presentation and panel discussion:** From the submitted white papers, we will solicit speakers to record a brief presentation on their white paper content.  We will also ask some to participate in a live panel discussion with Q&A.  Recorded presentations will be available to attendees before the workshop.
-- **Poster: (Due July 10)** A PDF or interactive webpage that will be the focus of small group discussion during teatime.
-- **Teatime theme: (Due July 10)** A topic for open discussion during teatime.  You would facilitate discussion of a small group.
+| Contribution| Submission Date | Description                                |
+|-------------|-----------------|--------------------------------------------|
+| White paper | June 26 | A brief document articulating impediments, challenges, opportunities or potential solutions to developer productivity for scientific software. |
+| Teatime theme | July 10 |A topic for open discussion during teatime.  You would facilitate discussion of a small group. |
+| Poster      |July 10  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. |
+| Recorded presentation | July 6 - 10 | Selected from the submitted white papers, we will solicit speakers to record a brief presentation on their white paper content.  Recorded presentations will be available to attendees before the workshop. |
+Panelist |  July 21 - 23 | Selected from the submitted white papers, we will solicit participants as panelists for a live discussion with Q&A. |
 
 ### White paper guidelines and submission
 - Please limit length to 2 - 4 pages standard text (references are not included in page count).
