@@ -10,6 +10,8 @@ Workshop attendees are encouraged to submit content to build the program of Coll
 | Recorded presentation | July 6 - 10 | Selected from the submitted white papers, we will solicit speakers to record a brief presentation on their white paper content.  Recorded presentations will be available to attendees before the workshop. |
 Panelist |  July 21 - 23 | Selected from the submitted white papers, we will solicit participants as panelists for a live discussion with Q&A. |
 
+**All submission will be reviewed by the organizing committee for possible acceptance to the workshop program**
+
 ### White paper guidelines and submission
 - Please limit length to 2 - 4 pages standard text (references are not included in page count).
 - Your text can address impediments, challenges, opportunities, research directions or potential solutions, or combinations of these aspects.
@@ -22,6 +24,7 @@ Panelist |  July 21 - 23 | Selected from the submitted white papers, we will sol
 ### Poster guidelines and submission
 - Poster sessions will be conducted during teatimes.  We will run discussions concurrently and keep the discussion groups small enough for interactive dialogue.
 - Posters can be PDF files of one or a few slides or an interactive webpage.  The intent is to have content that conveys your ideas in a small group dialogue.
+- To have your poster considered for presentation, please submit it no later than **July 10, 2020**.
 - How to submit your poster:
   - Option 1: Submit a pull request. Instructions and current posters are on **[this page.](https://collegeville.github.io/CW20/WorkshopResources/Posters/PosterList.html)**
   - Option 2: Submit your poster in PDF form as an email attachment or send the interactive webpage URL to Mike Heroux **<maherou@sandia.gov>**.
@@ -30,6 +33,7 @@ Panelist |  July 21 - 23 | Selected from the submitted white papers, we will sol
 - Teatime is a concept borrowed from Angela Herring: scheduling an open discussion with a small group of people.  
 - In order to provide a bit of structure to the discussion, we invite you to submit a teatime theme related to developer productivity.
 - If your theme is selected, we will invite you to facilitate a discussion on your theme during the concurrent breakout sessions.
+- To have your teatime theme considered for discussion, please submit it no later than **July 10, 2020**.
 - How to submit your teatime theme and abstract:
   - Option 1: Submit a pull request. Instructions and current teamtime themes are on **[this page.](https://collegeville.github.io/CW20/WorkshopResources/TeatimeThemes/TeatimeThemeList.html)**
   - Option 2: Submit your teatime theme and abstract in PDF form as an email attachment to Mike Heroux **<maherou@sandia.gov>**.
