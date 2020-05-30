@@ -1,6 +1,6 @@
 ## Contribute to Collegeville 2020
 
-Workshop attendees are encouraged to submit content to build the program of Collegeville 2020.  We welcome the following contributions:
+Any member of the computational science and engineering community who has an interest in improving developer productivity for scientific software is encouraged to submit content to build the program of Collegeville 2020.  We welcome the following contributions:
 
 | Contribution| Submission Date | Description                                |
 |-------------|-----------------|--------------------------------------------|
