@@ -5,10 +5,10 @@ Any member of the computational science and engineering community who has an int
 | Contribution| Submission Date | Description                                |
 |-------------|-----------------|--------------------------------------------|
 | White paper | June 26 | A brief document articulating impediments, challenges, opportunities or potential solutions to developer productivity for scientific software. |
-| Teatime theme | July 10 |A topic for open discussion during teatime.  You would facilitate discussion of a small group. |
-| Poster      |July 10  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. |
-| Recorded presentation | July 6 - 10 | Selected from the submitted white papers, we will solicit speakers to record a brief presentation on their white paper content.  Recorded presentations will be available to attendees before the workshop. |
-Panelist |  July 21 - 23 | Selected from the submitted white papers, we will solicit participants as panelists for a live discussion with Q&A. |
+| Teatime theme | July 10 |A topic related to developer productivity for open discussion during teatime. If your teatime theme is accepted, you would facilitate a small group discussion on the theme during the July 21 – 23 workshop. |
+| Poster      |July 10  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. If your poster is accepted, you would facilitate a small group discussion during the July 21 – 23 workshop.   |
+| Recorded presentation | July 10 | We will record short presentations on content selected from some of the submitted white papers. If your white paper content would make a good presentation for the workshop, we will contact you no later than Monday, June 29 to inquire if you are interested in this opportunity.   We will schedule recordings no later than July 10.  Recorded presentations will be available to attendees before the workshop. |
+Panelist |  July 21 - 23 | During the workshop dates of July 21 – 23, we will host a live plenary panel discussion with Q&A as the first event each day.  We are limited to just a few panelists each day and will invite people based on their white paper submission and the diversity of viewpoint for the theme of the day.  We will contact panelist candidates no later than Monday, June 29 to inquire if you are interested in this opportunity. The panel sessions will be recorded and available after the workshop. |
 
 **All submission will be reviewed by the organizing committee for possible acceptance to the workshop program**
 
