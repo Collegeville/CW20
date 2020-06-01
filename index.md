@@ -6,6 +6,7 @@
 
 ### Details
 - [**Contribute**](Contribute.md)
+- [**Registration**](Registration.md)
 - [**About**](About.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
