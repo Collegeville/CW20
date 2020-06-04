@@ -5,6 +5,10 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 [**All White Papers: WhitePapersBundle.zip**](../WhitePapersBundle.zip)
 
 ## List of papers:
+
+- [Sochat, Vanessa: Developer productivity means developer happiness](developer-happiness-whitepaper-vsochat.pdf)
+- [Sochat, Vanessa: Future wants for remote software engineering](future-remote-rseng-whitepaper-vsochat.pdf)
+
 - [Lastname, Firstname: Title](file.pdf)
 
 #### [Back to Main Page](../../index.md)
