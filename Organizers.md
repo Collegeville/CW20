@@ -5,6 +5,7 @@
 - Eric Bavier, Cray, Inc.
 - Vadim Dyadechko, ExxonMobil Corporation
 - Jacob Hemstad, Nvidia Corp.
+- Daniel S. Katz, University of Illinois at Urbana-Champaign
 - Sarah Knepper, Intel Corp.
 - Lois Curfman McInnes, Argonne National Laboratory
 - Pat Quillen, MathWorks, Inc.
