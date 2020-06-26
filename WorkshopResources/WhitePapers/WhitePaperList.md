@@ -6,6 +6,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 ## List of papers:
 
+- [Du, C. Fan and Howison, James: An Ecosystem Perspective of Scientific Software Developer Productivity](Du-Howison-Collegeville2020-WhitePaper-Submission.pdf)
 - [Anzt, Hartwig and Cojean, Terry: Prioritizing Platform Portability for Scientific Libraries](software_portability_anzt.pdf)
 - [Carver, Jeffrey and Eisty, Nasir: Peer Code Review for Scientific Software](peer-code-review-carver.pdf)
 - [Sochat, Vanessa: Developer productivity means developer happiness](developer-happiness-whitepaper-vsochat.pdf)
