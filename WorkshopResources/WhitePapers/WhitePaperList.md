@@ -13,7 +13,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Sochat, Vanessa: Developer productivity means developer happiness](sochat-developer-happiness.pdf)
 - [Sochat, Vanessa: Future wants for remote software engineering](sochat-future-remote-rseng.pdf)
 - [Heroux, Michael, et. al: E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-E4S.pdf)
-
+- [Smith, Spencer and Carette, Jacques: Long-term Productivity for Long-term Impact](smith-carette-redefining-productivity.pdf)
 - [Lastname, Firstname: Title](file.pdf)
 
 #### [Back to Main Page](../../index.md)
