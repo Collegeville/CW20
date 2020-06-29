@@ -15,6 +15,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Heroux, Michael, et. al: E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-E4S.pdf)
 - [Smith, Spencer and Carette, Jacques: Long-term Productivity for Long-term Impact](smith-carette-redefining-productivity.pdf)
 - [Gunter, Beattie: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](gunter-beattie-useful-practices.pdf)
+- [Dubey, Anshu: When Not to use Agile in Scientific Software Development](dubey-when-not-agile.pdf)
 - [Lastname, Firstname: Title](file.pdf)
 
 #### [Back to Main Page](../../index.md)
