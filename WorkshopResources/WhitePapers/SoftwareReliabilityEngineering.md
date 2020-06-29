@@ -62,6 +62,7 @@ Some of the goals of [SRE] are...
 * To log, track and evolve a database of [SRE] activity and effort to help inform
   ongoing development plans and resource allocation.
 * To identify and document escalation paths for major incidents.
+* To ensure any previously agreed upon response time is met.
 
 While many aspects of [SRE] are under the direct control of software developers,
 some (those involving *operations* and the underlying computing infrastructure) are
@@ -119,7 +120,7 @@ process. These details are addressed in the remaining sections.
 ## [SRE] vs. Product Development
 
 Part of the reason for formalizing these activities is the recognition of a
-different category of work, [SRE], that is essential part of maintaining
+different category of work, [SRE], that is an essential part of maintaining
 the overall quality of a software product as well as the productivity of both
 developers and users of the software alike.  Nonetheless, this work is very
 different from conventional *product development* type work where bug fixes,
@@ -204,26 +205,26 @@ something other than a supported platform, the receiving developer should make a
 effort to hand-off the inquiry to the **Primary** [SRE] as quickly and politely as
 practical.
 
-What does it mean for a platform of first contact to be *supported*? It means
-there is an *assurance* that the platform is being *monitored* by developers.
+What does it mean for a platform to be *supported*? It means
+there is an *assurance* that it is being *monitored* by the [SRE] **Primary**.
 In addition, supported platforms are encouraged and promoted in any documentation
 where support processes are described.
 
 Balancing the priorites of user accessibility with developer productivity
 involves a compromise on the number of platforms a team can make an assurance
 to monitor. However, the approved platforms should be periodically reevaluated. If
-there is some platform which seems to be gaining popularity among users, it could
-be added to the list of supported platforms.
+there is some platform which seems to be gaining popularity among users, it may
+make sense to include it as a supported platforms.
 
 ## Response Time and Response vs. Resolution
 
 It is important to distinguish between *response* and *resolution* of [SRE] incidents.
 A key goal in this process is to ensure that customer inquiries do not go
-unanswered. However, *responding* to a customer inquiry does
+unanswered. However, *responding* to an [SRE] inquiry does
 not necessarily mean *resolving* it. Sometimes, the only response possible is to
-acknowledge a customer's inquiry and let them know that the resources to
+acknowledge the inquiry and let the user know that the resources to
 address it will be allocated as soon as practical. In many cases, an *immediate*
-response to acknowledge even just the receipt of a customer's inquiry with no
+response to acknowledge even just the receipt of a user's inquiry with no
 progress towards actual resolution goes a long way towards creating the goodwill
 necessary to negotiate the time to respond more fully.
 
@@ -248,7 +249,7 @@ following activities...
     un-reviewed state for further discussion at a project meeting.
   * Identifying and filing a new *product development* type issue.
 
-To emphasize the last bullet, *resolution* does not always mean a customer's
+To emphasize the last bullet, *resolution* does not always mean a user's
 issue can be addressed to *satisfaction* within the constraints of the [SRE]
 process as it is defined here. Sometimes, the most that can be achieved is
 filing a highly informative issue to be prioritized, scheduled and
