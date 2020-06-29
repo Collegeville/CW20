@@ -12,6 +12,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Eisty, Nasir and Carver, Jeffrey: Testing Scientific Software](eisty-carver-testing-scientific-software.pdf)
 - [Sochat, Vanessa: Developer productivity means developer happiness](sochat-developer-happiness.pdf)
 - [Sochat, Vanessa: Future wants for remote software engineering](sochat-future-remote-rseng.pdf)
+- [Heroux, Michael, et. al: E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-E4S.pdf)
 
 - [Lastname, Firstname: Title](file.pdf)
 
