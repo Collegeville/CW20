@@ -24,6 +24,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Sochat, Vanessa: Future wants for remote software engineering](sochat-future-remote-rseng.pdf)
 - [Windus, T., Nash, J., and Richard, R.: Scientific Software Developer Productivity Challenges from the Molecular Sciences](windus-nash-richard-productivity-challenges-mol-sci.pdf)
 - [Woods, J., Baker, M., Thavappiragasam, M., Sedova, A., Hernandez, O., Sarkar, V.: Using Python for Improved Productivity in HPC and Data Science Applications: the Time is Now](woods-baker-thavappiragasam-sedova-hernandez-sarkar-python-for-improved-productivity-time-is-now.pdf)
+- [Luszczek, Piotr: Productivity, Portability, and Performance: Pick any two in Uncertain Hardware Landscape?](luszczek-p3-pick-two.pdf)
 - [Lastname, Firstname: Title](file.pdf)
 
 #### [Back to Main Page](../../index.md)
