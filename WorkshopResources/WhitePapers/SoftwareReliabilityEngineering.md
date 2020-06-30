@@ -189,21 +189,21 @@ necessary to negotiate the time to respond more fully.
 *Resolution* of an [SRE] issue often involves one or more of the
 following activities...
 
-  * Answering a question or referring a user to documentation.
-  * Diagnosing the issue.
-  * Developing a work-around for users.
-  * Developing a reproducer for developers.
-    * This may include any relevant user data files as well as approval, where
-      appropriate for world read access to such data as part of attaching to
-      a GitHub issue.
-  * Identifying any *low-hanging fruit* type work that would address, even if
-    only in part, the original [SRE] inquiry and then engaging in the
-    work to resolve it.
-  * Determining if the user's issue is known (e.g. an issue ticket already exists).
-  * Updating a known issue with new information from this user, perhaps
-    adjusting labels on the issue or putting the issue back into the
-    un-reviewed state for further discussion at a project meeting.
-  * Identifying and filing a new *product development* type issue.
+* Answering a question or referring a user to documentation.
+* Diagnosing the issue.
+* Developing a work-around for users.
+* Developing a reproducer for developers.
+  * This may include any relevant user data files as well as approval, where
+    appropriate for world read access to such data as part of attaching to
+    a GitHub issue.
+* Identifying any *low-hanging fruit* type work that would address, even if
+  only in part, the original [SRE] inquiry and then engaging in the
+  work to resolve it.
+* Determining if the user's issue is known (e.g. an issue ticket already exists).
+* Updating a known issue with new information from this user, perhaps
+  adjusting labels on the issue or putting the issue back into the
+  un-reviewed state for further discussion at a project meeting.
+* Identifying and filing a new *product development* type issue.
 
 To emphasize the last bullet, *resolution* does not always mean a user's
 issue can be addressed to *satisfaction* within the constraints of the [SRE]
