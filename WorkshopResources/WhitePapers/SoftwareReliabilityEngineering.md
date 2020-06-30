@@ -259,7 +259,25 @@ in the [SRE] issue tracker and new issue is opened in the product development
 issue tracker including a reference to the original [SRE] issue. Doing so does
 serve to *resolve* the original [SRE] issue that initiated the work.
 
-## Serious Incidents and Postmortems
+## Escalation, Serious Incidents and Postmortems
+
+[SRE] inquiries may escalate for a variety of reasons. The 
+technical expertise or authority required to respond to a given inquiry may be
+beyond the **Primary**'s abilities or other difficulties may arise. For issues
+that the **Primary** does not quickly see a path to resolution, other developers
+may be enlisted. However, where a **Primary** is responsible for maintaining the 
+response time goal, other developers so enlisted are free to either delay or even
+decline to respond (but nonetheless inform the **Primary** of this need) if their
+schedule does not permit timely response. Such a situation could mean that the
+only remaining course of action for the **Primary** to *resolve* the issue is to
+file a product development issue as discussed at the end of a preceding section.
+
+If after investigation and diagnosis, the work required to resolve an [SRE]
+incident remains highly uncertain or is not believed to be a
+*low-hanging-fruit* type task, the **Primary** should search the product
+development issues to see if there is a known issue and, if so, add additional
+information from this new [SRE] incident or submit a *new* issue to the product
+development issue tracker. Such action then *resolves* the original [SRE] issue.
 
 Serious incidents are those that have significant productivity consequences for
 multiple users and/or require an inordinate amount of resources (either time or
@@ -277,7 +295,32 @@ suggesting recommendations for changes in processes to prevent such incidents
 from being repeated. This *postmortem* will be used to guide team discussion
 during a subsequent project meeting.
 
-## Handoffs
+## Coverage, Shift Length, Shift Changes and Handoffs
+
+The key parameters in these processes is the *coverage* of support hours, the
+response time and the length of a *shift*. In the IT world where companies like
+Google, Apple and Amazon have whole teams dedicated to [SRE] activity, coverage
+is 24/7, response time is measured in minutes and shifts are weeks or months.
+
+For a DOE software project of moderate size (say 6 or more developers) *and*
+which has a sufficiently large user base, coverage should be during
+*normal business hours*, response time should be about a half-day (4 hours) and
+shift length should be about one week. For a project of this size, if a
+**Primary** is wholly consumed with [SRE] activities during their shift, this
+would represent about 17% of the project's development resources.
+
+If this is too much, the solution is to reduce coverage, either shorter days or
+fewer days. For example, maybe the project decides coverage will be normal
+business hours but only Monday through Wednesday. This reduces the *maximal*
+cost for [SRE] activity from 17% to a more manageable 10%. In this example, it
+may make sense to lengthen a shift to two weeks.
+
+For even smaller projects or projects with few users, it may be
+appropriate to reduce coverage to only certain days out of a month and a shift
+length of a day. In such cases the goal of ensuring a *response time* becomse
+inapplicable. There is simply not enough resource available to ensure any
+specific response time. Nonetheless, as long as expectations are appropriately
+set, users will often demonstrate surprising patience and understanding.
 
 These [SRE] processes involve two kinds of *handoffs*. One is the
 redirection of a customer who makes first contact with a developer not serving as
@@ -303,27 +346,6 @@ is re-assigned by the outgoing **Primary** upon ending
 their shift. However, an outgoing **Primary** may be near enough
 resolving an [SRE] issue that it makes more sense for him/her to carry it completion
 rather than hand it off.
-
-## Escalation
-
-SRE inquiries may escalate for a variety of reasons. The 
-technical expertise or authority required to respond to a given inquiry may be
-beyond the **Primary**'s abilities or other difficulties may arise. For issues
-that the **Primary** does not quickly see a path to resolution, other developers
-may be enlisted. However, where a **Primary** is responsible for maintaining the 
-response time goal, other developers so enlisted are free to either delay or even
-decline to respond (but nonetheless inform the **Primary** of this need) if their
-schedule does not permit timely response. Such a situation could mean that the
-only remaining course of action for the **Primary** to *resolve* the issue is to
-file a product development issue as discussed at the end of a preceding section.
-
-If after investigation and diagnosis, the work required to resolve an [SRE]
-incident remains highly uncertain or is not believed to be a
-*low-hanging-fruit* type task, the **Primary** should search the *product
-development* issues to see if there is a known issue and, if so, add additional
-information to that known issue about this new [SRE] incident
-or submit a *new* issue to the product development issue
-tracker. Such action then *resolves* the original [SRE] issue.
 
 ## Scheduling and Load Balancing
 
