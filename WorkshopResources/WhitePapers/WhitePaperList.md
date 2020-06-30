@@ -6,6 +6,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 ## List of papers:
 
+- [Miller, Mark: SRE+UXDD to Improve Productivity of Customer Support Processes](SoftwareReliabilityEngineering.md)
 - [Sochat, Vanessa: Developer productivity means developer happiness](developer-happiness-whitepaper-vsochat.pdf)
 - [Sochat, Vanessa: Future wants for remote software engineering](future-remote-rseng-whitepaper-vsochat.pdf)
 
