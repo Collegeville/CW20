@@ -295,7 +295,7 @@ suggesting recommendations for changes in processes to prevent such incidents
 from being repeated. This *postmortem* will be used to guide team discussion
 during a subsequent project meeting.
 
-## Coverage, Shift Length, Shift Changes and Handoffs
+## Managing [SRE] Effort and Costs
 
 The key parameters in these processes is the *coverage* of support hours, the
 response time and the length of a *shift*. In the IT world where companies like
@@ -322,6 +322,25 @@ inapplicable. There is simply not enough resource available to ensure any
 specific response time. Nonetheless, as long as expectations are appropriately
 set, users will often demonstrate surprising patience and understanding.
 
+### Load Balancing [SRE] Effort
+
+To balance [SRE] work load among developers, the **Primary** role is rotated.
+However, a number of factors can complicate a simple round-robin
+approach including percent-time assignments of team members, alternate work schedules,
+working remotely, travel, vacations, multi-day trainings, etc.
+
+Round-robin assignment may lead to a fair load by head-count but isn't weighted by
+percent-time assignments. From a percent-time assignment perspective, it might be
+more appropriate for a 50% time developer to serve as **Primary** only half as often
+as a 100% time developer.
+
+For teams where a majority of developers divide their time across multiple
+projects, it may make sense to use 50% as the *nominal* developer assignment.
+The aim is an approximately round-robin load balance where contributors who are
+more than 50% time are occasionally assigned an extra shift.
+
+### Handoffs
+
 These [SRE] processes involve two kinds of *handoffs*. One is the
 redirection of a customer who makes first contact with a developer not serving as
 the **Primary**. The other is the handoff of unresolved [SRE] issues
@@ -346,24 +365,6 @@ is re-assigned by the outgoing **Primary** upon ending
 their shift. However, an outgoing **Primary** may be near enough
 resolving an [SRE] issue that it makes more sense for him/her to carry it completion
 rather than hand it off.
-
-## Scheduling and Load Balancing
-
-To balance [SRE] work load, the **Primary** role is rotated
-among team members. However, a number of factors can complicate a simple round-robin
-approach including percent-time assignments of team members, alternate work schedules,
-working remotely, travel, vacations, multi-day trainings, etc.
-
-Round-robin assignment may lead to a fair load by head-count but isn't weighted by
-percent-time assignments. From a percent-time assignment perspective, it might be
-more appropriate for a 50% time developer to serve as **Primary** only half as often
-as a 100% time developer.
-
-For teams where a majority of developers divide their time across multiple projects,
-it may make sense to use 50% as the *nominal* developer assignment.
-The aim is an approximately round-robin load
-balancing where contributors who are more than 50% time are occasionally
-assigned an extra shift.
 
 ## A Common Misconception: [SRE] is an Interruption to Product Development
 
