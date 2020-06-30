@@ -16,6 +16,8 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Smith, Spencer and Carette, Jacques: Long-term Productivity for Long-term Impact](smith-carette-redefining-productivity.pdf)
 - [Sochat, Vanessa: Developer productivity means developer happiness](sochat-developer-happiness.pdf)
 - [Sochat, Vanessa: Future wants for remote software engineering](sochat-future-remote-rseng.pdf)
+- [Gates J., Frye J., Perschbacher B., Vigil D.: Git Productive!](gates-git-productive.pdf)
+- [Gates J., Braun J., Collins D.: One Script to Rule Them All:  Unifying Build Processes Across Platforms](gates-unifying-build-processes.pdf)
 - [Lastname, Firstname: Title](file.pdf)
 
 #### [Back to Main Page](../../index.md)
