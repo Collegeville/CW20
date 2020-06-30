@@ -48,34 +48,7 @@ essential part of ensuring positive
 In turn, this contributes to the productivity of both users and developers of the
 software alike.
 
-## Goals
-
-Some of the goals of [SRE] are...
-
-* To build and maintain a reputation for timely and quality response to customer
-  inquiries.
-* To develop a practice of continuous user feedback and subsequent quality
-  improvements to the software and associated processes and artifacts impacting user
-  and/or developer productivity.
-* To *load balance* [SRE] work in an equitable way across the development team.
-* To reduce [SRE] interruptions for the team as a whole.
-* To log, track and evolve a database of [SRE] activity and effort to help inform
-  ongoing development plans and resource allocation.
-* To identify and document escalation paths for major incidents.
-* To ensure any previously agreed upon response time is met.
-
-While many aspects of [SRE] are under the direct control of software developers,
-some (those involving *operations* and the underlying computing infrastructure) are
-not and involve collaboration with other teams in resolving. In most cases the
-extent of the development team's involvement in resolving *operational* issues
-is confined primarly to the software itself; its development, testing, release
-and deployment which includes installations the team directly manages, hosted
-binary downloads for common platforms and the tools and resources to build from
-sources. Operational issues impacting software behavior but outside of this
-scope are typically delegated to other teams who are responsible for the
-associated processes and resources.
-
-## The Basic Process
+## The Basic Process and its Goals
 
 [SRE] work is allocated and rotated among developers in *shifts*. During
 a shift, one developer's [role](#roles) is to serve as the **Primary** contact.
@@ -110,6 +83,33 @@ shifts, its conceivable they can. But, there can be no implied assumption or
 expectation that this will be the case.
 
 The **Primary** role is rotated so as to balance the load among team members.
+
+### Goals
+
+Some of the goals of [SRE] are...
+
+* To build and maintain a reputation for timely and quality response to customer
+  inquiries.
+* To develop a practice of continuous user feedback and subsequent quality
+  improvements to the software and associated processes and artifacts impacting user
+  and/or developer productivity.
+* To *load balance* [SRE] work in an equitable way across the development team.
+* To reduce [SRE] interruptions for the team as a whole.
+* To log, track and evolve a database of [SRE] activity and effort to help inform
+  ongoing development plans and resource allocation.
+* To identify and document escalation paths for major incidents.
+* To ensure any previously agreed upon response time is met.
+
+While many aspects of [SRE] are under the direct control of software developers,
+some (those involving *operations* and the underlying computing infrastructure) are
+not and involve collaboration with other teams in resolving. In most cases the
+extent of the development team's involvement in resolving *operational* issues
+is confined primarly to the software itself; its development, testing, release
+and deployment which includes installations the team directly manages, hosted
+binary downloads for common platforms and the tools and resources to build from
+sources. Operational issues impacting software behavior but outside of this
+scope are typically delegated to other teams who are responsible for the
+associated processes and resources.
 
 The preceding paragraphs describe [SRE] processes at a
 basic level and in the ideal. Nonetheless, several terms here (those that are 
@@ -171,50 +171,6 @@ fruit is considered to be anything that the team believes is fixable
 within a half-day's (4 hours) worth of effort. When there are many such tasks in
 the system to work on, the **Primary** is free to use his/her judgment to decide
 which s/he can most productively address.
-
-## Supported Communication Platforms
-
-An [SRE] inquiry with the team begins with a *first contact* and may optionally
-be followed by *ongoing* conversation. These two phases of communication have different
-requirements and can involve different processes. This is due to the need
-to balance two priorities; *accessibility* for users and *productivity* for developers.
-
-To maximize accessibility for users, supporting a wide variety of
-[communication *platforms*](https://www.elcom.com.au/resources/blog/15-essential-communication-platforms-and-software-to-use)
-for first contact is desireable. However, to maximize productivity for developers,
-the platform(s) used for ongoing conversations must be restricted.
-
-Users who are co-located with the development team can often spontaneously make
-first contact with a developer by an office drop-in or a tackle in the hallway or
-parking lot. The virtual equivalent of this occurs even more frequently on various
-communcation platforms such as Confluence, Jabber, MS Teams, etc. where users can
-wind up engaging specific developers that happen, by nothing more than coincidence,
-to also be using those platforms.
-
-A challenge with spontaneous first contacts is that they inadvertently
-single out a specific developer who is then expected to at least *respond* and
-possibly even to also *resolve* the issue. But, these actions and the effort they
-involve are the responsibility of the [SRE] **Primary**. Consequently, spontaneous
-first contacts can wind up jeopardizing the goals of [SRE] processes by making it
-difficult to track, allocate and manage [SRE] effort.
-
-Therefore, officially supported platforms for first contact should be those which
-engage the *whole team* instead of singling out a specific member (e.g. Email
-list or GitHub conversation). Whenever users attempt a first contact through
-something other than a supported platform, the receiving developer should make an
-effort to hand-off the inquiry to the **Primary** [SRE] as quickly and politely as
-practical.
-
-What does it mean for a platform to be *supported*? It means
-there is an *assurance* that it is being *monitored* by the [SRE] **Primary**.
-In addition, supported platforms are encouraged and promoted in any documentation
-where support processes are described.
-
-Balancing the priorites of user accessibility with developer productivity
-involves a compromise on the number of platforms a team can make an assurance
-to monitor. However, the approved platforms should be periodically reevaluated. If
-there is some platform which seems to be gaining popularity among users, it may
-make sense to include it as a supported platforms.
 
 ## Response Time and Response vs. Resolution
 
@@ -365,6 +321,50 @@ is re-assigned by the outgoing **Primary** upon ending
 their shift. However, an outgoing **Primary** may be near enough
 resolving an [SRE] issue that it makes more sense for him/her to carry it completion
 rather than hand it off.
+
+## Supported Communication Platforms
+
+An [SRE] inquiry with the team begins with a *first contact* and may optionally
+be followed by *ongoing* conversation. These two phases of communication have different
+requirements and can involve different processes. This is due to the need
+to balance two priorities; *accessibility* for users and *productivity* for developers.
+
+To maximize accessibility for users, supporting a wide variety of
+[communication *platforms*](https://www.elcom.com.au/resources/blog/15-essential-communication-platforms-and-software-to-use)
+for first contact is desireable. However, to maximize productivity for developers,
+the platform(s) used for ongoing conversations must be restricted.
+
+Users who are co-located with the development team can often spontaneously make
+first contact with a developer by an office drop-in or a tackle in the hallway or
+parking lot. The virtual equivalent of this occurs even more frequently on various
+communcation platforms such as Confluence, Jabber, MS Teams, etc. where users can
+wind up engaging specific developers that happen, by nothing more than coincidence,
+to also be using those platforms.
+
+A challenge with spontaneous first contacts is that they inadvertently
+single out a specific developer who is then expected to at least *respond* and
+possibly even to also *resolve* the issue. But, these actions and the effort they
+involve are the responsibility of the [SRE] **Primary**. Consequently, spontaneous
+first contacts can wind up jeopardizing the goals of [SRE] processes by making it
+difficult to track, allocate and manage [SRE] effort.
+
+Therefore, officially supported platforms for first contact should be those which
+engage the *whole team* instead of singling out a specific member (e.g. Email
+list or GitHub conversation). Whenever users attempt a first contact through
+something other than a supported platform, the receiving developer should make an
+effort to hand-off the inquiry to the **Primary** [SRE] as quickly and politely as
+practical.
+
+What does it mean for a platform to be *supported*? It means
+there is an *assurance* that it is being *monitored* by the [SRE] **Primary**.
+In addition, supported platforms are encouraged and promoted in any documentation
+where support processes are described.
+
+Balancing the priorites of user accessibility with developer productivity
+involves a compromise on the number of platforms a team can make an assurance
+to monitor. However, the approved platforms should be periodically reevaluated. If
+there is some platform which seems to be gaining popularity among users, it may
+make sense to include it as a supported platforms.
 
 ## A Common Misconception: [SRE] is an Interruption to Product Development
 
