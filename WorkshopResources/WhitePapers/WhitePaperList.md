@@ -16,6 +16,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Smith, Spencer and Carette, Jacques: Long-term Productivity for Long-term Impact](smith-carette-redefining-productivity.pdf)
 - [Sochat, Vanessa: Developer productivity means developer happiness](sochat-developer-happiness.pdf)
 - [Sochat, Vanessa: Future wants for remote software engineering](sochat-future-remote-rseng.pdf)
+- [Milewicz, Reed: Towards Evidence-Based Practice in Scientific Software Development](EvidenceBasedPractice.pdf)
 - [Lastname, Firstname: Title](file.pdf)
 
 #### [Back to Main Page](../../index.md)
