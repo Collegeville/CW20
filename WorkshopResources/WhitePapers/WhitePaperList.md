@@ -17,7 +17,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Gamblin, Todd: Software Integration Challenges](gamblin-collegeville-2020-integration.pdf)
 - [Gunter, Dan, and Beattie, Keith: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](gunter-beattie-useful-practices.pdf)
 - [Heroux, M., Willenbring, J., Shende, S., Coti, C., Spear, W., Peyralans, L., Skutnik, J. and Keever, E.  : E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-E4S.pdf)
-- [Huebl, A.: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
+- [Huebl, Axel: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
 - [Levine, Aaron and Willenbring, James: Navigating the Rapids: Creating a Continuous Integration System for GitHub and Jenkins](levine-willenbring-ci-systems-github-jenkins.pdf)
 - [Mundt, M., Levine, A. and Siirola, J.: Overcoming Productivity Plateaus: A Story of Automation Tools and Developer Productivity](mundt-levine-siirola-overcoming-productivity-plateaus.pdf)
 - [Smith, Spencer and Carette, Jacques: Long-term Productivity for Long-term Impact](smith-carette-redefining-productivity.pdf)
