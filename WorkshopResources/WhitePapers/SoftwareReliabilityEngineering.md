@@ -193,11 +193,9 @@ following activities...
   * Diagnosing the issue.
   * Developing a work-around for users.
   * Developing a reproducer for developers.
-
     * This may include any relevant user data files as well as approval, where
       appropriate for world read access to such data as part of attaching to
       a GitHub issue.
-
   * Identifying any *low-hanging fruit* type work that would address, even if
     only in part, the original [SRE] inquiry and then engaging in the
     work to resolve it.
