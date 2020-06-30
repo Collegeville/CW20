@@ -8,16 +8,16 @@ adoption throughout the commercial software services industry.
 
 [SaaP] readers who don't like or see how the word *site* applies should consider
 a slight adaptation, *Software reliability engineering*. It is concerned with the
-work involved in ensuring a deployed software product is and remains useable and
+work involved in ensuring a deployed software product is and remains usable and
 effective to its users and in responding to incidents relating to the use of the
-software itself or some operational aspect of the computing enviornment in which
+software itself or some operational aspect of the computing environment in which
 the software is being used.
 
 While *Customer Support* is focused primarily on *responding to user inquiries*,
-**Software** reliability engineering is focused on the continous investment of
+**Software** reliability engineering is focused on the continuous investment of
 effort and evolution of best practices to craft and carry out
 *small corrective actions*, often in the form of improved automation, aimed at
-continously improving the software and/or its processes and artifacts. This focus
+continuously improving the software and/or its processes and artifacts. This focus
 and these activities represent a
 [fusion](https://medium.com/@aHev/why-ux-researchers-should-learn-sre-practices-a2b213e69a8a>)
 of aspects of Google's [Site Reliability Engineering][SRE] process (sometimes also
@@ -27,7 +27,7 @@ and aspects of [User Experience Driven Development (UXDD)][UXDD]. That is
 [SRE]+[UXDD]. However, *User Experience Driven* ***Development*** is a relatively new
 term (not to be confused with *User Experience Driven* ***Design***) where user
 experience is being constantly fed back to inform development activities to
-incrimentally improve the software. So, the remainder of this article uses [SRE]
+incrementally improve the software. So, the remainder of this article uses [SRE]
 as a shorthand for [SRE]+[UXDD].
 
 Typically, [SRE] issues originate from users in the midst of using a software product
@@ -71,7 +71,7 @@ it is a rather trivial amount of work to resolve, there should be an associated
 build a database to later mine to identify where further product or process
 improvements can be made. Upon resolution of [serious incidents](#escalation-serious-incidents-and-postmortems),
 the **Primary** prepares a brief [postmortem](#escalation-serious-incidents-and-postmortems)
-to inform discussion at the next project meeting of possible improvments in processes or practices.
+to inform discussion at the next project meeting of possible improvements in processes or practices.
 
 Because [SRE] work tends to be [interrupt driven](#a-common-misconception-sre-is-an-interruption-to-product-development),
 there is always the chance
@@ -93,18 +93,18 @@ Some of the goals of [SRE] are...
 * To develop a practice of continuous user feedback and subsequent quality
   improvements to the software and associated processes and artifacts impacting user
   and/or developer productivity.
-* To *load balance* [SRE] work in an equitable way across the development team.
-* To reduce [SRE] interruptions for the team as a whole.
+* To [load balance](#load-balancing-sre-effort) [SRE] work in an equitable way across the development team.
+* To reduce [SRE] [interruptions](#a-common-misconception-sre-is-an-interruption-to-product-development) for the team as a whole.
 * To log, track and evolve a database of [SRE] activity and effort to help inform
   ongoing development plans and resource allocation.
-* To identify and document escalation paths for major incidents.
+* To identify and document [escalation](#escalation-serious-incidents-and-postmortems) paths for major incidents.
 * To ensure any previously agreed upon response time is met.
 
 While many aspects of [SRE] are under the direct control of software developers,
 some (those involving *operations* and the underlying computing infrastructure) are
 not and involve collaboration with other teams in resolving. In most cases the
 extent of the development team's involvement in resolving *operational* issues
-is confined primarly to the software itself; its development, testing, release
+is confined primarily to the software itself; its development, testing, release
 and deployment which includes installations the team directly manages, hosted
 binary downloads for common platforms and the tools and resources to build from
 sources. Operational issues impacting software behavior but outside of this
@@ -113,7 +113,7 @@ associated processes and resources.
 
 The preceding paragraphs describe [SRE] processes at a
 basic level and in the ideal. Nonetheless, several terms here (those that are 
-links or in *italics* in the paragraphs above) require elaboration. In addition,
+links in the paragraphs above) require elaboration. In addition,
 there are also many practical matters which can serve to complicate the basic
 process. These details are addressed in the remaining sections.
 
@@ -149,7 +149,7 @@ A constructive correction has value only when...
   comprehensive solution.
 
 Ordinarily, a constructive correction is something the
-**Primary** handles as part of their [SRE] activity. The comprehensive solution,
+**Primary** handles as part of their [SRE] activity. A comprehensive solution,
 which often involves more planning and resource allocation, is handled as part
 of normal product development activities.
 
@@ -161,8 +161,8 @@ represents low cost, high benefit improvements in quality of either the software
 itself or the development or deployment processes supporting it. We refer to issues
 of this nature as *low-hanging fruit* type issues.
 
-Apart from acknowledging their existence, a key part of this process is the
-allocation of a small fraction of resources for the sole purpose of supporting
+Apart from acknowledging their existence, a key aspect of [SRE] processes is the
+commitment of a small fraction of resources for the sole purpose of supporting
 [SRE] activities and developing a practice of continuously crafting constructive
 corrective actions arising from [SRE] inquiries.
 
@@ -277,7 +277,7 @@ may make sense to lengthen a shift to two weeks.
 
 For even smaller projects or projects with few users, it may be
 appropriate to reduce coverage to only certain days out of a month and a shift
-length of a day. In such cases the goal of ensuring a *response time* becomse
+length of a day. In such cases the goal of ensuring a *response time* becomes
 inapplicable. There is simply not enough resource available to ensure any
 specific response time. Nonetheless, as long as expectations are appropriately
 set, users will often demonstrate surprising patience and understanding.
@@ -319,7 +319,7 @@ process, such as reducing [SRE] interruptions for the team as a whole and tracki
 If an active [SRE] issue cannot be resolved within the shift of
 a **Primary**'s assignment, it gets handed off to the next shift's **Primary**.
 Such handoffs are managed formally with a comment (or email) to the
-user(s) and the next shifts's **Primary** in the associated
+user(s) and the next shift's **Primary** in the associated
 issue. The associated issue(s) in the [SRE] issue tracker
 is re-assigned by the outgoing **Primary** upon ending
 their shift. However, an outgoing **Primary** may be near enough
@@ -335,13 +335,13 @@ to balance two priorities; *accessibility* for users and *productivity* for deve
 
 To maximize accessibility for users, supporting a wide variety of
 [communication *platforms*](https://www.elcom.com.au/resources/blog/15-essential-communication-platforms-and-software-to-use)
-for first contact is desireable. However, to maximize productivity for developers,
+for first contact is desirable. However, to maximize productivity for developers,
 the platform(s) used for ongoing conversations must be restricted.
 
 Users who are co-located with the development team can often spontaneously make
 first contact with a developer by an office drop-in or a tackle in the hallway or
 parking lot. The virtual equivalent of this occurs even more frequently on various
-communcation platforms such as Confluence, Jabber, MS Teams, etc. where users can
+communication platforms such as Confluence, Jabber, MS Teams, etc. where users can
 wind up engaging specific developers that happen, by nothing more than coincidence,
 to also be using those platforms.
 
@@ -364,7 +364,7 @@ there is an *assurance* that it is being *monitored* by the [SRE] **Primary**.
 In addition, supported platforms are encouraged and promoted in any documentation
 where support processes are described.
 
-Balancing the priorites of user accessibility with developer productivity
+Balancing the priorities of user accessibility with developer productivity
 involves a compromise on the number of platforms a team can make an assurance
 to monitor. However, the approved platforms should be periodically reevaluated. If
 there is some platform which seems to be gaining popularity among users, it may
@@ -386,13 +386,17 @@ When faced with a long backlog of product development tasks, team members can
 all too easily perceive [SRE] work as an *interruption* to those tasks.
 This is a common and serious misconception.
 
+## Conclusion
+
 Software Reliability Engineering is an important aspect to a successful product
 and project on par with any other major development work. It is part of what is
-involved in maintaining and improving the productivity of the software for
-developers and the utility of the software for users.
+involved in maintaining and improving the utility of the software for users and
+the productivity of the software for developers. The commitment of a fraction of
+the project's development resources to continually respond to [SRE] inquiries with
+constructive corrective actions in the software implementation or its processes
+or artifacts is a best practice that will, in the long run, improve developer and
+user productivity alike.
 
 [SRE]: https://landing.google.com/sre/sre-book/toc/ "Google's on-line book on Site Reliability Engineering"
 [UXDD]: https://www.microsoftpressstore.com/articles/article.aspx?p=2492952&seqNum=3 "User Experience Driven Design"
 [SaaP]: https://en.wikipedia.org/wiki/Software_as_a_Product "Software as a Product"
-
-https://medium.com/@carlosjoel.tavares_25618/ux-driven-development-9a35cee2c3b1
