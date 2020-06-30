@@ -24,8 +24,8 @@ of aspects of Google's [Site Reliability Engineering][SRE] process (sometimes al
 called
 [Systems Reliability Engineering or Services Reliability Engineering](https://www.cio.com/article/3192531/why-you-need-a-systems-reliability-engineer.html))
 and aspects of [User Experience Driven Development (UXDD)][UXDD]. That is
-[SRE]+[UXDD]. However, *User Experience Driven* **Development** is a relatively new
-term (not to be confused with *User Experience Driven* **Design**) where user
+[SRE]+[UXDD]. However, *User Experience Driven* ***Development*** is a relatively new
+term (not to be confused with *User Experience Driven* ***Design***) where user
 experience is being constantly fed back to inform development activities to
 incrimentally improve the software. So, the remainder of this article uses [SRE]
 as a shorthand for [SRE]+[UXDD].
@@ -44,23 +44,22 @@ development, planning and execution. Most DOE software projects have
 no dedicated [SRE] resources. Instead, developers themselves must also support [SRE]
 activity. Nonetheless, managing [SRE] work effectively and efficiently is an
 essential part of ensuring positive
-[outcomes for users](https://beyondphilosophy.com/15-statistics-that-should-change-the-business-world-but-havent).
-In turn, this contributes to the productivity of both users and developers of the
-software alike.
+[outcomes for users](https://beyondphilosophy.com/15-statistics-that-should-change-the-business-world-but-havent)
+and continued productivity for developers.
 
 ## The Basic Process and its Goals
 
-[SRE] work is allocated and rotated among developers in *shifts*. During
-a shift, one developer's [role](#roles) is to serve as the **Primary** contact.
+[SRE] work is allocated and rotated among developers in [shifts](#coverage-and-shift-length). During
+a shift, one developer's role is to serve as the **Primary** [SRE] point of contact.
 S/he handles all user inquiries that come in during that shift. Except for
-[escalations](#escalation), any other developers are free of [SRE]
-responsibilities and can remain focused on planned software product
-development work.
+[escalations](#escalation-serious-incidents-and-postmortems), any other developers are free of [SRE]
+responsibilities and can remain focused on planned software
+[product development](#sre-vs-product-development) work.
 
-The [role](#roles) of the **Primary** is to [respond](#response_vs_resolution)
+The role of the **Primary** is to [respond](#response-time-and-response-vs-resolution)
 within the response time goal, to each inquiry. Ideally, all [SRE] activity during
-a shift is handled and [resolved](#response_vs_resolution) solely by the
-**Primary**. However, [escalations](#escalation), which should be rare, will
+a shift is handled and [resolved](#response-time-and-response-vs-resolution) solely by the
+**Primary**. However, [escalations](#escalation-serious-incidents-and-postmortems), which should be rare, will
 wind up engaging other developers. In addition, any active [SRE] issues that
 remain unresolved at the end of a shift are formally handed off to the next
 shift's **Primary**.
@@ -70,17 +69,18 @@ the project's planned development. For any work the **Primary** performs, even i
 it is a rather trivial amount of work to resolve, there should be an associated
 [SRE] issue for tracking that work. Tracking even the trivial issues will help to
 build a database to later mine to identify where further product or process
-improvements can be made. Upon resolution of serious incidents, the
-**Primary** prepares a brief *postmortem* to inform discussion at the next
-project meeting of possible improvments in processes or practices.
+improvements can be made. Upon resolution of [serious incidents](#escalation-serious-incidents-and-postmortems),
+the **Primary** prepares a brief [postmortem](#escalation-serious-incidents-and-postmortems)
+to inform discussion at the next project meeting of possible improvments in processes or practices.
 
-Because [SRE] work tends to be [interrupt driven](#), there is always the chance
+Because [SRE] work tends to be [interrupt driven](#a-common-misconception-sre-is-an-interruption-to-product-development),
+there is always the chance
 that the **Primary** will have no active issues. At these *idle* times, the
-**Primary** uses their time to address *low-hanging fruit* type work. In
+**Primary** uses their time to address [low-hanging fruit](#low-hanging-fruit). In
 particular, there is no expectation that a developer serving as [SRE] **Primary**
-can get any other work done beyond their active or idle [SRE] obligations. In slow
-shifts, its conceivable they can. But, there can be no implied assumption or
-expectation that this will be the case.
+can get any [product development](#sre-vs-product-development) work done. In slow
+shifts, its conceivable they can. But, to meet coverage and response time goals,
+there can be no implied assumption or expectation that this will be the case.
 
 The **Primary** role is rotated so as to balance the load among team members.
 
@@ -88,7 +88,7 @@ The **Primary** role is rotated so as to balance the load among team members.
 
 Some of the goals of [SRE] are...
 
-* To build and maintain a reputation for timely and quality response to customer
+* To build and maintain a reputation for timely and quality response to user 
   inquiries.
 * To develop a practice of continuous user feedback and subsequent quality
   improvements to the software and associated processes and artifacts impacting user
@@ -153,6 +153,8 @@ Ordinarily, a constructive correction is something the
 which often involves more planning and resource allocation, is handled as part
 of normal product development activities.
 
+### Low-Hanging Fruit
+
 Constructive corrections can wind up falling through the cracks of traditional
 software project management and planning processes. However, such work also often
 represents low cost, high benefit improvements in quality of either the software
@@ -175,7 +177,7 @@ which s/he can most productively address.
 ## Response Time and Response vs. Resolution
 
 It is important to distinguish between *response* and *resolution* of [SRE] incidents.
-A key goal in this process is to ensure that customer inquiries do not go
+A key goal in this process is to ensure that user inquiries do not go
 unanswered. However, *responding* to an [SRE] inquiry does
 not necessarily mean *resolving* it. Sometimes, the only response possible is to
 acknowledge the inquiry and let the user know that the resources to
@@ -258,6 +260,8 @@ response time and the length of a *shift*. In the IT world where companies like
 Google, Apple and Amazon have whole teams dedicated to [SRE] activity, coverage
 is 24/7, response time is measured in minutes and shifts are weeks or months.
 
+### Coverage and shift length
+
 For a DOE software project of moderate size (say 6 or more developers) *and*
 which has a sufficiently large user base, coverage should be during
 *normal business hours*, response time should be about a half-day (4 hours) and
@@ -298,12 +302,12 @@ more than 50% time are occasionally assigned an extra shift.
 ### Handoffs
 
 These [SRE] processes involve two kinds of *handoffs*. One is the
-redirection of a customer who makes first contact with a developer not serving as
+redirection of a user who makes first contact with a developer not serving as
 the **Primary**. The other is the handoff of unresolved [SRE] issues
 from one shift's **Primary** to the next.
 
-To handle customer redirection handoffs, it is a best practice to use a three-way
-handoff giving the customer some assurance that their initial contact with someone
+To handle user redirection handoffs, it is a best practice to use a three-way
+handoff giving the user some assurance that their initial contact with someone
 is successfully handed off to the **Primary**. For example, for a call-in, it
 is a best practice to try a three-way call transfer. For some developers, the
 prospect of redirecting friends and colleagues with whom they may have long
@@ -315,7 +319,7 @@ process, such as reducing [SRE] interruptions for the team as a whole and tracki
 If an active [SRE] issue cannot be resolved within the shift of
 a **Primary**'s assignment, it gets handed off to the next shift's **Primary**.
 Such handoffs are managed formally with a comment (or email) to the
-customer(s) and the next shifts's **Primary** in the associated
+user(s) and the next shifts's **Primary** in the associated
 issue. The associated issue(s) in the [SRE] issue tracker
 is re-assigned by the outgoing **Primary** upon ending
 their shift. However, an outgoing **Primary** may be near enough
