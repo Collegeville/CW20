@@ -14,7 +14,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Eisty, Nasir and Carver, Jeffrey: Testing Scientific Software](eisty-carver-testing-scientific-software.pdf)
 - [Ellingwood, Nathan and Rajamanickam, Sivasankaran: Practices and Challenges of Software Development for a Performance Portable Ecosystem](ellingwood-nathan-software-dev-perf-portable-ecosystem.pdf)
 - [Finkel: The Many Faces of the Productivity Challenge in Scientific Software](finkel-many-faces-of-productivity-challenges.pdf)
-- [Gunter, Beattie: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](gunter-beattie-useful-practices.pdf)
+- [Gunter, Dan, and Beattie, Keith: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](gunter-beattie-useful-practices.pdf)
 - [Heroux, M., Willenbring, J., Shende, S., Coti, C., Spear, W., Peyralans, L., Skutnik, J. and Keever, E.  : E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-E4S.pdf)
 - [Huebl, A.: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
 - [Levine, Aaron and Willenbring, James: Navigating the Rapids: Creating a Continuous Integration System for GitHub and Jenkins](levine-willenbring-ci-systems-github-jenkins.pdf)
