@@ -2,7 +2,22 @@
 # Some frontmatter is required
 permalink: /WorkshopResources/WhitePapers/
 ---
-# Collegeville Workshop on Scientific Software Whitepapers
+# 2020 Collegeville Workshop on Scientific Software Whitepapers
+
+Add the PDF or Markdown of your white paper to the this folder and
+name it like so...
+
+```
+CamelCaseShortTitle-AuthorLastName-AuthorOtherNames.{md,pdf}
+```
+
+For example...
+
+```
+MyCoolSoftwareProductivityArticle-Miller-Mark_C.md
+```
+
+[**All White Papers: WhitePapersBundle.zip**](../WhitePapersBundle.zip)
 
 {% comment %}
   White paper file names should be of the form...
@@ -44,3 +59,5 @@ permalink: /WorkshopResources/WhitePapers/
   </tr>
 {% endfor %}
 </table>
+
+#### [Back to Main Page](../../index.md)
