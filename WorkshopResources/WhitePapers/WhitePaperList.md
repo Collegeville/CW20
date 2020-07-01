@@ -8,6 +8,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 - [Anzt, Hartwig and Cojean, Terry: Prioritizing Platform Portability for Scientific Libraries](anzt-cojean-software-portability.pdf)
 - [Bartlett, Roscoe: Restoring productivity through the advanced usage of Git](restoring_productivity_git_bartlett.pdf) 
+- [Bartlett, Roscoe, Frye, Joseph, Harvey, Evan: Improved productivity through standardized configurations and testing of Trilinos on advanced platforms](atdm_trilinos_builds_bartlett.pdf)
 - [Carver, Jeffrey and Eisty, Nasir: Peer Code Review for Scientific Software](carver-eisty-peer-code-review.pdf)
 - [Chandrasekaran, Sunita: Scientific Software Productivity - Case studies, Challenges, Opportunities and Potential Solutions](chandrasekaran-studies-challenges-opps-solns.pdf)
 - [Du, C. Fan and Howison, James: An Ecosystem Perspective of Scientific Software Developer Productivity](du-howison-ecosystem-perspective-productivity.pdf)
@@ -20,6 +21,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Heroux, M., Willenbring, J., Shende, S., Coti, C., Spear, W., Peyralans, L., Skutnik, J. and Keever, E.  : E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-E4S.pdf)
 - [Huebl, Axel: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
 - [Levine, Aaron and Willenbring, James: Navigating the Rapids: Creating a Continuous Integration System for GitHub and Jenkins](levine-willenbring-ci-systems-github-jenkins.pdf)
+- [Milewicz, Reed: Towards Evidence-Based Practice in Scientific Software Development](EvidenceBasedPractice.pdf)
 - [Mundt, M., Levine, A. and Siirola, J.: Overcoming Productivity Plateaus: A Story of Automation Tools and Developer Productivity](mundt-levine-siirola-overcoming-productivity-plateaus.pdf)
 - [Smith, Spencer and Carette, Jacques: Long-term Productivity for Long-term Impact](smith-carette-redefining-productivity.pdf)
 - [Sochat, Vanessa: Developer productivity means developer happiness](sochat-developer-happiness.pdf)
