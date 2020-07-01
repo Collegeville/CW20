@@ -7,6 +7,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 ## List of papers:
 
 - [Anzt, Hartwig and Cojean, Terry: Prioritizing Platform Portability for Scientific Libraries](anzt-cojean-software-portability.pdf)
+- [Bartlett, Roscoe: Restoring productivity through the advanced usage of Git](restoring_productivity_git_bartlett.pdf) 
 - [Carver, Jeffrey and Eisty, Nasir: Peer Code Review for Scientific Software](carver-eisty-peer-code-review.pdf)
 - [Chandrasekaran, Sunita: Scientific Software Productivity - Case studies, Challenges, Opportunities and Potential Solutions](chandrasekaran-studies-challenges-opps-solns.pdf)
 - [Du, C. Fan and Howison, James: An Ecosystem Perspective of Scientific Software Developer Productivity](du-howison-ecosystem-perspective-productivity.pdf)
