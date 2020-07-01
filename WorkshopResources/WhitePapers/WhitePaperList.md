@@ -17,6 +17,8 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Ellingwood, Nathan and Rajamanickam, Sivasankaran: Practices and Challenges of Software Development for a Performance Portable Ecosystem](ellingwood-nathan-software-dev-perf-portable-ecosystem.pdf)
 - [Finkel: The Many Faces of the Productivity Challenge in Scientific Software](finkel-many-faces-of-productivity-challenges.pdf)
 - [Gamblin, Todd: Software Integration Challenges](gamblin-collegeville-2020-integration.pdf)
+- [Gates J., Frye J., Perschbacher B., Vigil D.: Git Productive!](gates-git-productive.pdf)
+- [Gates J., Braun J., Collins D.: One Script to Rule Them All:  Unifying Build Processes Across Platforms](gates-unifying-build-processes.pdf)
 - [Gunter, Dan, and Beattie, Keith: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](gunter-beattie-useful-practices.pdf)
 - [Heroux, M., Willenbring, J., Shende, S., Coti, C., Spear, W., Peyralans, L., Skutnik, J. and Keever, E.  : E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-E4S.pdf)
 - [Huebl, Axel: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
