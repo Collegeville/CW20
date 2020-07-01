@@ -6,13 +6,13 @@
 
 ### Details
 - [**Contribute**](Contribute.md)
+- [**Resources**](Resources.md)
 - [**Registration**](Registration.md)
 - [**About**](About.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
 - [**Agenda**](Agenda.md)
 - [**Organizers**](Organizers.md)
-- [**Resources**](Resources.md)
 - Contact: Mike Heroux
   - <maherou@sandia.gov>
   - +1 505 379 5518
