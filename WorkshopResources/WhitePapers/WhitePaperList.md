@@ -1,14 +1,26 @@
-# 2020 Collegeville Workshop on Scientific Software Whitepapers
+---
+# Some frontmatter is required
+permalink: /WorkshopResources/WhitePapers/
+---
+# Collegeville Workshop on Scientific Software Whitepapers
 
-To edit this page, make a pull request for the [page source on GitHub](https://github.com/Collegeville/CW20/blob/master/WorkshopResources/WhitePapers/WhitePaperList.md).  Add the PDF of your white paper to the same folder.
+{% comment %}
+  White paper file names should be of the form...
+    CamelCaseTitle-AuthorLastName-AuthorOtherName(s).{md,pdf}
+{% endcomment %}
 
-[**All White Papers: WhitePapersBundle.zip**](../WhitePapersBundle.zip)
+{% assign white_papers = site.static_files | where: "white_paper", true %}
 
-## List of papers:
-
-- [Sochat, Vanessa: Developer productivity means developer happiness](developer-happiness-whitepaper-vsochat.pdf)
-- [Sochat, Vanessa: Future wants for remote software engineering](future-remote-rseng-whitepaper-vsochat.pdf)
-
-- [Lastname, Firstname: Title](file.pdf)
-
-#### [Back to Main Page](../../index.md)
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Title</th>
+  </tr>
+{%- for wp in white_papers -%}
+  {%- assign substrs = wp.basename | split: "-" -%}
+  <tr>
+    <td>{{substrs[1]}}, {{substrs[2]}}</td>
+    <td><a href="{{wp.name}}">{{substrs[0]}}</a></td>
+  </tr>
+{%- endfor -%}
+</table>
