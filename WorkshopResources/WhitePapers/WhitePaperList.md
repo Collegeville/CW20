@@ -2,7 +2,7 @@
 
 To edit this page, make a pull request for the [page source on GitHub](https://github.com/Collegeville/CW20/blob/master/WorkshopResources/WhitePapers/WhitePaperList.md).  Add the PDF of your white paper to the same folder.
 
-[**All White Papers: WhitePapersBundle.zip - Will be generated after submissions complete**](../WhitePapersBundle.zip)
+[**All White Papers: WhitePapersBundle.zip**](../WhitePapersBundle.zip)
 
 ## List of papers:
 
