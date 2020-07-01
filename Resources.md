@@ -1,6 +1,6 @@
 ## Workshop Resources
 
-- [Whitepapers](WorkshopResources/WhitePapers/WhitePaperList.md)
+- [Whitepapers](WorkshopResources/WhitePapers/)
 - [Presentations](WorkshopResources/Presentations/PresentationList.md)
 - [Posters](WorkshopResources/Posters/PosterList.md)
 - [Teatime Themes](WorkshopResources/TeatimeThemes/TeatimeThemeList.md)
