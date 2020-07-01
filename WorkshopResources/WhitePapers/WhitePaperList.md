@@ -16,11 +16,31 @@ permalink: /WorkshopResources/WhitePapers/
     <th>Author</th>
     <th>Title</th>
   </tr>
-{%- for wp in white_papers -%}
-  {%- assign substrs = wp.basename | split: "-" -%}
+{% for wp in white_papers %}
+  {% assign substrs = wp.basename | split: "-" %}
   <tr>
-    <td>{{substrs[1]}}, {{substrs[2]}}</td>
-    <td><a href="{{wp.name}}">{{substrs[0]}}</a></td>
+    <td>
+    {% for str in substrs offset:1 %}
+        {% if str != substrs[1] %}
+           ,&nbsp;
+        {% endif %}
+        {{str}}
+    {% endfor %}
+    </td>
+    {% assign title = "" %}
+    {% assign nchars = wp.basename | size %}
+    {% for i in (0..nchars) %}
+      {% assign char = wp.basename | slice: i %}
+      {% if char == "-" %}
+        {% break %}
+      {% endif %}
+      {% assign upchar = char | upcase %}
+      {% if char == upchar %}
+         {% assign title = title | append: " " %}
+      {% endif %}
+      {% assign title = title | append: char %}
+    {% endfor %}
+    <td><a href="{{wp.name}}">{{title}}</a></td>
   </tr>
-{%- endfor -%}
+{% endfor %}
 </table>
