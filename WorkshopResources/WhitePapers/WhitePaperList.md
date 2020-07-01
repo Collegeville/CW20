@@ -19,6 +19,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Heroux, M., Willenbring, J., Shende, S., Coti, C., Spear, W., Peyralans, L., Skutnik, J. and Keever, E.  : E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-E4S.pdf)
 - [Huebl, Axel: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
 - [Levine, Aaron and Willenbring, James: Navigating the Rapids: Creating a Continuous Integration System for GitHub and Jenkins](levine-willenbring-ci-systems-github-jenkins.pdf)
+- [Milewicz, Reed: Towards Evidence-Based Practice in Scientific Software Development](EvidenceBasedPractice.pdf)
 - [Mundt, M., Levine, A. and Siirola, J.: Overcoming Productivity Plateaus: A Story of Automation Tools and Developer Productivity](mundt-levine-siirola-overcoming-productivity-plateaus.pdf)
 - [Smith, Spencer and Carette, Jacques: Long-term Productivity for Long-term Impact](smith-carette-redefining-productivity.pdf)
 - [Sochat, Vanessa: Developer productivity means developer happiness](sochat-developer-happiness.pdf)
