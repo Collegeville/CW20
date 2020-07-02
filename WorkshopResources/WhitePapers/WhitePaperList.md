@@ -57,22 +57,13 @@ For example...
       {% endif %}
       {% assign title = title | append: char %}
     {% endfor %}
-    <td><a href="{{wp.name}}">{{title}}</a></td>
+    {% if wp.extname == ".md" %}
+        <td><a href="{{wp.basename}}.html">{{title}}</a></td>
+    {% else %}
+        <td><a href="{{wp.name}}">{{title}}</a></td>
+    {% endif %}
   </tr>
 {% endfor %}
 </table>
-
-{% comment %}
-{% assign myfiles = site.static_files | where: "white_paper", true %}
-{% endcomment %}
-{% assign myfiles = site.static_files %}
-{% for file in myfiles %}
-<h3>{{file.name}}</h3>
-<a href="{{file.path}}">{{file.path}}</a>
-{% endfor %}
-
-### Ref to a markdown file
-
-* [Mark's Paper](SRE+UXDDToImproveProductivityOfCustomerSupportProcesses-Miller-Mark_C.md)
 
 #### [Back to Main Page](../../index.md)
