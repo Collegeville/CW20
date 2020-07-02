@@ -62,4 +62,13 @@ For example...
 {% endfor %}
 </table>
 
+{% comment %}
+{% assign myfiles = site.static_files | where: "white_paper", true %}
+{% endcomment %}
+{% assign myfiles = site.static_files %}
+{% for file in myfiles %}
+<h3>{{file.name}}</h3>
+{{file.path}}
+{% endfor %}
+
 #### [Back to Main Page](../../index.md)
