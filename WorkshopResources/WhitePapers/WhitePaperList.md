@@ -2,7 +2,22 @@
 # Some frontmatter is required
 permalink: /WorkshopResources/WhitePapers/
 ---
-# Collegeville Workshop on Scientific Software Whitepapers
+# 2020 Collegeville Workshop on Scientific Software Whitepapers
+
+Add the PDF or Markdown of your white paper to the this folder and
+name it like so...
+
+  ```
+  CamelCaseShortTitle-AuthorLastName-AuthorOtherNames.{md,pdf}
+  ```
+
+For example...
+
+  ```
+  MyCoolSoftwareProductivityArticle-Miller-Mark_C.md
+  ```
+
+[**All White Papers: WhitePapersBundle.zip**](../WhitePapersBundle.zip)
 
 {% comment %}
   White paper file names should be of the form...
@@ -12,6 +27,7 @@ permalink: /WorkshopResources/WhitePapers/
 {% assign white_papers = site.static_files | where: "white_paper", true %}
 
 <table>
+  <caption>Papers currently available here</caption>
   <tr>
     <th>Author</th>
     <th>Title</th>
@@ -24,7 +40,8 @@ permalink: /WorkshopResources/WhitePapers/
         {% if str != substrs[1] %}
            ,&nbsp;
         {% endif %}
-        {{str}}
+        {% assign rstr = str | replace: "_", " " %}
+        {{rstr}}
     {% endfor %}
     </td>
     {% assign title = "" %}
@@ -44,3 +61,5 @@ permalink: /WorkshopResources/WhitePapers/
   </tr>
 {% endfor %}
 </table>
+
+#### [Back to Main Page](../../index.md)
