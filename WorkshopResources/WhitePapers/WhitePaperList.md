@@ -8,7 +8,7 @@ Add the PDF or Markdown of your white paper to the this folder and
 name it like so...
 
   ```
-  CamelCaseShortTitle-AuthorLastName-AuthorOtherNames.{md,pdf}
+  CamelCaseShortTitle-AuthorLastName-AuthorOtherName1_AuthorOtherName2.{md,pdf}
   ```
 
 For example...
@@ -37,11 +37,11 @@ For example...
   <tr>
     <td>
     {% for str in substrs offset:1 %}
-        {% if str != substrs[1] %}
+        {%- if str != substrs[1] -%}
            ,&nbsp;
-        {% endif %}
+        {%- endif -%}
         {% assign rstr = str | replace: "_", " " %}
-        {{rstr}}
+        {{-rstr-}}
     {% endfor %}
     </td>
     {% assign title = "" %}
