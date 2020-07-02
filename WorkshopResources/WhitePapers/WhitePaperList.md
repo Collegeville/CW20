@@ -94,7 +94,7 @@ For example...
    we want, etc.) as YML frontmatter. However, because we also want
    to allow `.pdf` files here, which are essentially binary, we
    have no place to store YML front matter. We could require that
-   each `.pdf` file also have a `.md` friend which contains nothing
+   each `.pdf` file also have a `.md` companion file which contains nothing
    but frontmatter and references the `.pdf` file but that would
    mean authors who contribute `.pdf` files then need to also create
    this `.md` friend. Its actually easy and would honestly be a bit
@@ -118,5 +118,14 @@ For example...
 1. The `Gemfile` at the top dir was added so that `bundle exec jekyll ...`
    commands will produce *something* locally. These won't produce properly
    themed site but are sufficient to do most testing locally before committing.
+
+1. Better approach: Use jekyll *collections* instead.
+
+   * Define different collections for white-papers, presentations, etc. 
+   * Each member of a collection will have an associated `.md` file. Submitters
+     can still submit `.pdf` or `.pptx`, etc. but they are also obligated to
+     create tiny `.md` YML frontmatter-only companion files, which would be
+     a lot more flexible than trying to encode key information in the names
+     of the files. Then, liquid logic to create autogend lists is very easy.
 
 #### [Back to Main Page](../../index.md)
