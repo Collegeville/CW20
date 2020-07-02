@@ -24,7 +24,8 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - [Gunter, Dan, and Beattie, Keith: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](gunter-beattie-useful-practices.pdf)
 - [Heroux, M., Willenbring, J., Shende, S., Coti, C., Spear, W., Peyralans, L., Skutnik, J. and Keever, E.  : E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-shende-coti-spear-et-al-E4S.pdf)
 - [Huebl, Axel: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
-- [Lehr, JP, Maric, T., Bothe, D. and Bischof, C.: Increasing the quality of (academic) scientific software](lehr-maric-bothe-bischof-increasing-the-quality-of-academic-scientific-software.pdf)
+- [Katz, Daniel S., Chard, K., Badia, Rosa M., and Ejarque, Jorge: A common workflow registry of compute endpoints and applications](katz_registry.pdf)
+- [Lehr, JP, Maric, T., Bothe, D. and Bischof, C.: Increasing the quality of (academic) scientific software](lehr-maric-bothe-bischof-increasing-the-quality-of-academic-scientific-software.pdf)
 - [Levine, Aaron and Willenbring, James: Navigating the Rapids: Creating a Continuous Integration System for GitHub and Jenkins](levine-willenbring-ci-systems-github-jenkins.pdf)
 - [Luszczek, Piotr: Productivity, Portability, and Performance: Pick any two in Uncertain Hardware Landscape?](luszczek-p3-pick-two.pdf)
 - [Miller, Mark: SRE+UXDD to Improve Productivity of Customer Support Processes](miller-software-reliability-engineering.md)
