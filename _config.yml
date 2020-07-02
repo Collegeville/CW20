@@ -1,3 +1,8 @@
 theme: jekyll-theme-dinky
 title: [Collegeville Workshop 2020]
 description: [CW20 brings community members together to advance developer productivity for scientific software]
+defaults:
+  - scope:
+      path: "WorkshopResources/WhitePapers"
+    values:
+      white_paper: true
