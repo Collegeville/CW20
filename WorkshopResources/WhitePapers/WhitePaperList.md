@@ -7,15 +7,15 @@ permalink: /WorkshopResources/WhitePapers/
 Add the PDF or Markdown of your white paper to the this folder and
 name it like so...
 
-```
-CamelCaseShortTitle-AuthorLastName-AuthorOtherNames.{md,pdf}
-```
+  ```
+  CamelCaseShortTitle-AuthorLastName-AuthorOtherNames.{md,pdf}
+  ```
 
 For example...
 
-```
-MyCoolSoftwareProductivityArticle-Miller-Mark_C.md
-```
+  ```
+  MyCoolSoftwareProductivityArticle-Miller-Mark_C.md
+  ```
 
 [**All White Papers: WhitePapersBundle.zip**](../WhitePapersBundle.zip)
 
@@ -27,6 +27,7 @@ MyCoolSoftwareProductivityArticle-Miller-Mark_C.md
 {% assign white_papers = site.static_files | where: "white_paper", true %}
 
 <table>
+  <caption>Papers currently available here</caption>
   <tr>
     <th>Author</th>
     <th>Title</th>
@@ -39,7 +40,8 @@ MyCoolSoftwareProductivityArticle-Miller-Mark_C.md
         {% if str != substrs[1] %}
            ,&nbsp;
         {% endif %}
-        {{str}}
+        {% assign rstr = str | replace: "_", " " %}
+        {{rstr}}
     {% endfor %}
     </td>
     {% assign title = "" %}
