@@ -48,12 +48,17 @@ For example...
     {% assign nchars = wp.basename | size %}
     {% for i in (0..nchars) %}
       {% assign char = wp.basename | slice: i %}
+      {% assign inx = i | plus: 1 %}
+      {% assign nxchar = wp.basename | slice: inx %}
       {% if char == "-" %}
         {% break %}
       {% endif %}
       {% assign upchar = char | upcase %}
+      {% assign nxupchar = nxchar | upcase %}
       {% if char == upchar %}
-         {% assign title = title | append: " " %}
+        {% if nxchar != nxupchar %}
+          {% assign title = title | append: " " %}
+        {% endif %}
       {% endif %}
       {% assign title = title | append: char %}
     {% endfor %}
