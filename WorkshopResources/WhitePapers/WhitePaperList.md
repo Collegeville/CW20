@@ -71,4 +71,8 @@ For example...
 <a href="{{file.path}}">{{file.path}}</a>
 {% endfor %}
 
+### Ref to a markdown file
+
+* [Mark's Paper](SRE+UXDDToImproveProductivityOfCustomerSupportProcesses-Miller-Mark_C.md)
+
 #### [Back to Main Page](../../index.md)
