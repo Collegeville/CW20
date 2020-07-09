@@ -14,6 +14,7 @@
 - [**Workshop Goals and Format**](GoalsFormat.md)
 - [**Agenda**](Agenda.md)
 - [**Organizers**](Organizers.md)
+- [**Collegeville Workshop Series**](https://collegeville.github.io/Workshops/)
 - Contact: Mike Heroux
   - <maherou@sandia.gov>
   - +1 505 379 5518
