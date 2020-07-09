@@ -24,6 +24,7 @@ A recorded discussion involves several people who can speak authoritatively to a
 ### Recorded Interview Guidance
 A recorded involves one or two interviewees, along with an interviewer to guide the conversation. Instructions:
 - You will be contacted by one of the workshop organizers to find a time to meet by Zoom to record your interview.
+- The interview will touch on the four developer productivity sub-themes of the workshop: definitions, challenges, technical improvements and cultural improvements.  The moderator will prompt you for any thoughts you have on the sub-themes and omit those that may not be of interest to you. 
 - We are hoping to have all interviews recorded by Wednesday, July 15.
 - We plan to limit interviews from 10 to 15 minutes.  Shorter is better if possible.
 - We prefer not to use slides unless there is detailed technical information needed occasionally during the discussion.
