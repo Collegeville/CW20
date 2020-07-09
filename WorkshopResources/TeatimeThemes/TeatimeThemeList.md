@@ -7,5 +7,6 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 ## List of teatime themes:
 - [Ferenbaugh, Charles: Developer Productivity on Novel Architectures (or, Surviving in the Wild West)](ferenbaugh-novel-architectures.md)
 - [Gates, Jason: Training Best Practices](gates-training-best-practices.md)
+- [Herring, Angela; Raybourn, Elaine: Teams who Play Together, Stay Together](raybourn-teams-play.md)
 
 #### [Back to Main Page](../../index.md)
