@@ -6,6 +6,7 @@
 
 ### Details
 - [**Contribute**](Contribute.md)
+- [**Recorded Contributions Instructions**](WorkshopResources/Recordings/Instructions.md)
 - [**Resources**](Resources.md)
 - [**Registration**](Registration.md)
 - [**About**](About.md)
