@@ -6,6 +6,7 @@
 
 ### Details
 - [**Contribute**](Contribute.md)
+- [**Recorded Contributions Instructions**](WorkshopResources/Recordings/Instructions.md)
 - [**Resources**](Resources.md)
 - [**Registration**](Registration.md)
 - [**About**](About.md)
@@ -13,6 +14,7 @@
 - [**Workshop Goals and Format**](GoalsFormat.md)
 - [**Agenda**](Agenda.md)
 - [**Organizers**](Organizers.md)
+- [**Collegeville Workshop Series**](https://collegeville.github.io/Workshops/)
 - Contact: Mike Heroux
   - <maherou@sandia.gov>
   - +1 505 379 5518
@@ -25,8 +27,7 @@
 - [**Detailed Agenda**](CWSS20-DP-Agenda.pdf)
 - [**White Papers**](WorkshopResources/WhitePapers/WhitePaperList.md)
 - [**All White Papers: WhitePapersBundle.zip**](WorkshopResources/WhitePapersBundle.zip)
-- [**Presentations**](WorkshopResources/Presentations/PresentationList.md)
-- [**All Presentations: PresentationsBundle.zip**](WorkshopResources/PresentationsBundle.zip)
+- [**Recordings**](WorkshopResources/Recordings/RecordingList.md)
 - [**Attendees**](Attendees.md)
 - [**Discussion Groups**](DiscussionGroups.md)
 - [**Ride Sharing**](Ride_sharing.md)
