@@ -8,6 +8,7 @@ Add your poster information to the list.  If you are submitting a PDF file, plea
 - [Siefert, Christopher: Case Study: Debugging Other People's Libraries via PRELOAD](Siefert_Christopher_Elliott_James_Collegeville_2020.pdf)
 - [Gonsiorowski, Elsa et al.: Upgrading Team Practices for Developer Productivity Improvement](UpgradingTeamPractices.pdf)
 - [Gates, Jason: Faster Turnaround Improves Developer Productivity](gates-TurnaroundImprovementsPoster.pdf)
+- [Cowan, Benjamin: Challenges in Deployability: Scientific Software on Microsoft Windows](Cowan_Windows.pdf)
 - [Lastname, Firstname: Title](file.pdf-or-URL)
 
 
