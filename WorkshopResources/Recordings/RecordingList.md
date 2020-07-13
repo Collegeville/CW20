@@ -4,9 +4,12 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 [**All Slides: SlidesBundle.zip**](../SlidesBundle.zip)
 
-## List of Recordings and Slides:
+## Recordings
+All recorded content is kept on [this playlist](https://www.youtube.com/playlist?list=PLSsqt6vUDjJ2lf4vs8xsX0YpBt-S-0c8t) as part of the [Collegeville Youtube Channel](https://www.youtube.com/channel/UCSf7qBvL-FINhgY5xPc-8sw)
 
-- Lastname, Firstname: Title [Recording](will-be-added-by-staff), [Slides](slides-you-provide.pdf)
+## List of Slides:
+
+- Lastname, Firstname: Title [Slides](slides-you-provide.pdf)
 
 
 #### [Back to Main Page](../../index.md)
