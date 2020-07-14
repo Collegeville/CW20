@@ -47,6 +47,7 @@ share.
 
 1. [Racism and HPC (HPC Wire Video Podcast)](https://www.hpcwire.com/2020/06/29/racism-and-hpc-special-podcast)
 2. [An Open Letter & Call to Action to the Computing Community](https://blackincomputing.org/)
+3. [Tech Confronts use of Lables `master` and `slave`](https://www.wired.com/story/tech-confronts-use-labels-master-slave/)
 3. [GitHub to replace default “master” language](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/)
 4. [Team Diversity Benefits and Costs](https://en.wikipedia.org/wiki/Team_diversity#Benefits_and_costs_to_teams)
 5. [Diversity and Inclusion At Work: Eight Powerful Truths](https://www2.deloitte.com/us/en/insights/deloitte-review/issue-22/diversity-and-inclusion-at-work-eight-powerful-truths.html)
