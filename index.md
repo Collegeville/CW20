@@ -1,9 +1,8 @@
 
-# THIS IS NOT THE Collegeville 2020 Home
+# Collegeville 2020 Home
 
-**You DO NOT WANT THIS fork.**
+![](assets/CollegevilleWorkshopBanner.pdf)
 
-**This fork is hosted only to demonstrate some new liquid code**
 
 ### Details
 - [**Resources**](Resources.md)
