@@ -9,7 +9,7 @@ All recorded content is kept on [this playlist](https://www.youtube.com/playlist
 
 ## List of Slides:
 
-- Lastname, Firstname: Title [Slides](slides-you-provide.pdf)
+- Gamblin, Todd: Software Integration Challenges [Slides](software-integration-challenges-collegeville2020.pdf)
 
 
 #### [Back to Main Page](../../index.md)
