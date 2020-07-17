@@ -1,7 +1,7 @@
 
 ## Agenda
 
-| **Time (US CDT)**| **July 21** | **July 22** | **July 23** |
+| **Time (US CDT)**| **July 21** <br> [Details](Agenda-Day-1.md) | **July 22** <br> [Details](Agenda-Day-2.md) | **July 23** <br> [Details](Agenda-Day-3.md) |
 |---|---|---|---|
 | 9:45 am  | Opening Remarks <br> [**(Add to calendar)**](CW20-OpeningRemarks.ics) | | |
 | 10:00 am | Panel 1: Productivity Definitions & Challenges <br> [**(Add to calendar)**](CW20-Panel-1-Definitions-Challenges.ics) | Panel 2: Technical Approaches to Improved Productivity <br> [**(Add to calendar)**](CW20-Panel-2-Technical-Approaches.ics) | Panel 3: Cultural Approaches to Improved Productivity <br> [**(Add to calendar)**](CW20-Panel-3-Cultural-Approaches.ics) |
