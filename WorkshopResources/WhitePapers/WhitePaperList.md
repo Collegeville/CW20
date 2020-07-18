@@ -26,6 +26,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 1. [Huebl, Axel: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
 1. [Katz, Daniel S., Chard, K., Badia, Rosa M., and Ejarque, Jorge: A common workflow registry of compute endpoints and applications](katz_registry.pdf)
 1. [Lehr, JP, Maric, T., Bothe, D. and Bischof, C.: Increasing the quality of (academic) scientific software](lehr-maric-bothe-bischof-increasing-the-quality-of-academic-scientific-software.pdf)
+1. [Leung, Mary Ann and Rouson, Damian with Curfman McInnes, Lois](leung-broadening-participation-cse-hpc.md)
 1. [Levine, Aaron and Willenbring, James: Navigating the Rapids: Creating a Continuous Integration System for GitHub and Jenkins](levine-willenbring-ci-systems-github-jenkins.pdf)
 1. [Luszczek, Piotr: Productivity, Portability, and Performance: Pick any two in Uncertain Hardware Landscape?](luszczek-p3-pick-two.pdf)
 1. [Miller, Mark: SRE+UXDD to Improve Productivity of Customer Support Processes](miller-software-reliability-engineering.md)

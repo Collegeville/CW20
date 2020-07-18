@@ -1,4 +1,4 @@
-# 2020 Collegeville Workshop on Sustainable Scientific Software Notes
+# 2020 Collegeville Workshop on Scientific Software Notes
 
 ## List of notes (Also linked from [DiscussionGroups](../../DiscussionGroups.md)):
 - [Group 1 Google Docs Notes](https://docs.google.com/document/d/1y6Sg_K-nz-GRGnf1ZrjN20jFj1NvfmCIduKvt2BlzeE/edit?usp=sharing)

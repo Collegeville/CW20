@@ -1,4 +1,4 @@
-# 2020 Collegeville Workshop on Sustainable Scientific Software Report
+# 2020 Collegeville Workshop on Scientific Software Report
 
 ## To come.
 
