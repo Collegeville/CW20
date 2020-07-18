@@ -9,6 +9,7 @@ All recorded content is kept on [this playlist](https://www.youtube.com/playlist
 
 ## List of Slides:
 
+- Carver, Jeff: Peer Code Review for Scientific Software [Slides](carver-peer-code-review.pdf)
 - Dyadechko, Vadim: The Art of Serving HPC Products to Business While They Are Still Hot [Slides](dyadechko-serving-hpc-products-to-business.pdf)
 - Finkel, Hal: The Many Faces of the Productivity Challenge in Scientific Software [Slides](finkel-many-faces-of-productivity-challenge.pdf)
 - Gamblin, Todd: Software Integration Challenges [Slides](software-integration-challenges-collegeville2020.pdf)
