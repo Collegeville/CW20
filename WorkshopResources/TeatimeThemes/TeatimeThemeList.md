@@ -8,7 +8,7 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 - [Ahn, Dong H.; Herbein, Stephen: Flux: Solving Exascale Workflow Portability and Execution Challenges](ahn-herbein-flux-workflow-portability.md)
 - [Chandrasekaran, Sunita: Sustainable Research Software Engineering](chandrasekaran-rse.md)
 - [Chandrasekaran, Sunita: Usable, reusable, portable, maintainable, reproducible: How?](chandrasekaran-usable-et-al.md)
-- [Dyadechko, Vadim: Developers Anonymous](dyadechko-developers-anonymous.pdf)
+- [Dyadechko, Vadim: Developers Anonymous](dyadechko-developers-anonymous.md)
 - [Fadel, Nur: Developer Productivity During Remote Working](fadel-remote-working.md)
 - [Ferenbaugh, Charles: Developer Productivity on Novel Architectures (or, Surviving in the Wild West)](ferenbaugh-novel-architectures.md)
 - [Gates, Jason: Training Best Practices](gates-training-best-practices.md)
