@@ -3,7 +3,7 @@
 
 | **Time (US CDT)**| **July 23** |
 |---|---|
-| 9:45 am  | **Panel 3: Cultural Approaches to Improved Productivity** <br> **Panelists:** <br> Sandra Gesing, U of Notre Dame <br> Mary Ann Leung, Sustainable Horizons <br> JP Lehr, TU Darmstadt <br> Mark Miller, Lawrence Livermore National Lab <br> Reed Milewicz, Sandia National Lab <br> Vanessa Sochet, Stanford <br> [**(Add to calendar)**](CW20-Panel-3-Cultural-Approaches.ics) |
+| 9:45 am  | **Panel 3: Cultural Approaches to Improved Productivity** <br> **Panelists:** <br> Sandra Gesing, U of Notre Dame <br> Mary Ann Leung, Sustainable Horizons <br> JP Lehr, TU Darmstadt <br> Mark Miller, Lawrence Livermore National Lab <br> Reed Milewicz, Sandia National Lab <br> Vanessa Sochat, Stanford <br> [**(Add to calendar)**](CW20-Panel-3-Cultural-Approaches.ics) |
 | 11:30 am | **Break & Slack Discussions** |
 | 12:30 pm | **Discussion 3: Cultural Approaches to Improved Productivity** <br> Breakout rooms will be assigned randomly using Zoom <br> [**(Add to calendar)**](CW20-Discussion-3-Cultural-Approaches.ics) |
 | 2:00 pm | **Break & Slack Discussions** |
