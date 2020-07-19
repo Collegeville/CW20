@@ -12,7 +12,7 @@ All recorded content is kept on [this playlist](https://www.youtube.com/playlist
 - Beattie, Gunter: UsefulPractices for Software Engineering on Medium-sized Distributed Scientific Projects [Slides](beattie-gunter-useful-practices-for-swe.pdf)
 - Carver, Jeff: Peer Code Review for Scientific Software [Slides](carver-peer-code-review.pdf)
 - Du, C. Fan: An Ecosystem View of Developer Productivity [Slides](du-ecosystem-view-of-developer-productivity.pdf)
-- Dyadechko, Vadim: The Art of Serving HPC Products to Business While They Are Still Hot [Slides](dyadechko-serving-hpc-products-to-business.pdf)
+- [Dyadechko, Vadim: The Art of Serving HPC Products to Business While They Are Still Hot](https://youtu.be/Vh2X7RJCoJQ) [Slides](dyadechko-devops-slides.pdf)
 - [Eisty, Nasir: Testing Scientific Software](eisty-testing-scientific-software.pdf)
 - Finkel, Hal: The Many Faces of the Productivity Challenge in Scientific Software [Slides](finkel-many-faces-of-productivity-challenge.pdf)
 - Gamblin, Todd: Software Integration Challenges [Slides](software-integration-challenges-collegeville2020.pdf)
