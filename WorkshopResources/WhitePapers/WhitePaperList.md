@@ -13,7 +13,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 1. [Chandrasekaran, Sunita: Scientific Software Productivity 1. Case studies, Challenges, Opportunities and Potential Solutions](chandrasekaran-studies-challenges-opps-solns.pdf)
 1. [Du, C. Fan and Howison, James: An Ecosystem Perspective of Scientific Software Developer Productivity](du-howison-ecosystem-perspective-productivity.pdf)
 1. [Dubey, Anshu: When Not to use Agile in Scientific Software Development](dubey-when-not-agile.pdf)
-1. [Dyadechko, Vadim: The Art of Serving HPC Products to Business while they are still hot](dyadechko-serving-hpc-products-to-business.pdf)
+1. [Dyadechko, Vadim: The Art of Serving HPC Products to Business while they are still hot](dyadechko-devops-paper.pdf)
 1. [Eisty, Nasir and Carver, Jeffrey: Testing Scientific Software](eisty-carver-testing-scientific-software.pdf)
 1. [Ellingwood, Nathan and Rajamanickam, Sivasankaran: Practices and Challenges of Software Development for a Performance Portable Ecosystem](ellingwood-nathan-software-dev-perf-portable-ecosystem.pdf)
 1. [Finkel: The Many Faces of the Productivity Challenge in Scientific Software](finkel-many-faces-of-productivity-challenges.pdf)
