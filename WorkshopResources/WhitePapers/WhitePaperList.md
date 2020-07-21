@@ -17,6 +17,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 1. [Eisty, Nasir and Carver, Jeffrey: Testing Scientific Software](eisty-carver-testing-scientific-software.pdf) - [Video](https://www.youtube.com/watch?v=MlE-oiAX3eM&t=25s)
 1. [Ellingwood, Nathan and Rajamanickam, Sivasankaran: Practices and Challenges of Software Development for a Performance Portable Ecosystem](ellingwood-nathan-software-dev-perf-portable-ecosystem.pdf) - [Video](https://www.youtube.com/watch?v=D_-B0y0x7qw&t=4s)
 1. [Finkel: The Many Faces of the Productivity Challenge in Scientific Software](finkel-many-faces-of-productivity-challenges.pdf) - [Video](https://www.youtube.com/watch?v=vzB86kZ_448&t=953s)
+1. [Frye, J.: Module Systems and Developer Productivity](jfrye_modules.pdf)
 1. [Gamblin, Todd: Software Integration Challenges](gamblin-collegeville-2020-integration.pdf) - [Video](https://www.youtube.com/watch?v=RrkFWhned3U&t=34s)
 1. [Gates J., Frye J., Perschbacher B., Vigil D.: Git Productive!](gates-git-productive.pdf) - [Video](https://www.youtube.com/watch?v=OyJ0AnesaRw&t=59s)
 1. [Gates J., Braun J., Collins D.: One Script to Rule Them All:  Unifying Build Processes Across Platforms](gates-unifying-build-processes.pdf) - [Video](https://www.youtube.com/watch?v=OyJ0AnesaRw&t=59s)
