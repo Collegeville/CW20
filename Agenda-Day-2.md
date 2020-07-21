@@ -1,6 +1,8 @@
 
 ## 2020 Collegeville Workshop Agenda, Wednesday, July 22, 2020
 
+[**Zoom Connection Information**](https://docs.google.com/document/d/1c7KDU-re5Ux0_vf01LRXedCBUASmDqdzryC2hC31PP8/edit?usp=sharing)
+
 | **Time (US CDT)**| **July 22** |
 |---|---|
 | 10:00 am | **Panel 2: Technical Approaches to Improved Productivity** <br> **Panelists:** <br> Hartwig Anzt, Karlruhe Institute of Technology, U of Tennessee <br> Jason Gates, Sandia National Labs <br> Anshu Dubey, Argonne National Lab <br> Vadim Dyadechko, ExxonMobil <br> Charles Ferenbaugh, Los Alamos National Lab <br> Vivek Sarkar, Georgia Tech <br> [**(Add to calendar)**](CW20-Panel-2-Technical-Approaches.ics) |
