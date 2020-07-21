@@ -9,7 +9,7 @@ All recorded content is kept on [this playlist](https://www.youtube.com/playlist
 
 ## List of Slides:
 
-- Beattie, Gunter: UsefulPractices for Software Engineering on Medium-sized Distributed Scientific Projects [Slides](beattie-gunter-useful-practices-for-swe.pdf)
+- [Beattie, Gunter: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](https://www.youtube.com/watch?v=X-I6VdMRNkU&t=4s)| [Slides](beattie-gunter-useful-practices-for-swe.pdf)
 - Carver, Jeff: Peer Code Review for Scientific Software [Slides](carver-peer-code-review.pdf)
 - Chandrasekaran, Sunita: Scientific Software Productivity – Case Studies, Challenges, Opportunities & Potential Solutions [Slides](chandrasekaran-scientific-software-productivity-case-studies-etc.pdf)
 - Du, C. Fan: An Ecosystem View of Developer Productivity [Slides](du-ecosystem-view-of-developer-productivity.pdf)
