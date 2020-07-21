@@ -1,6 +1,8 @@
 
 ## 2020 Collegeville Workshop Agenda, Tuesday, July 21, 2020
 
+[**Zoom Connection Information**](https://docs.google.com/document/d/1c7KDU-re5Ux0_vf01LRXedCBUASmDqdzryC2hC31PP8/edit?usp=sharing)
+
 | **Time (US CDT)**| **July 21** |
 |---|---|
 | 9:45 am  | **Opening Remarks** <br> [**(Add to calendar)**](CW20-OpeningRemarks.ics) |
