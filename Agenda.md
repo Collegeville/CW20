@@ -1,6 +1,8 @@
 
 ## Agenda
 
+[**Zoom Connection Information**](https://docs.google.com/document/d/1c7KDU-re5Ux0_vf01LRXedCBUASmDqdzryC2hC31PP8/edit?usp=sharing)
+
 | **Time (US CDT)**| **July 21** <br> [**Get Details**](Agenda-Day-1.md) | **July 22** <br> [**Get Details**](Agenda-Day-2.md) | **July 23** <br> [**Get Details**](Agenda-Day-3.md) |
 |---|---|---|---|
 | 9:45 am  | Opening Remarks <br> [**(Add to calendar)**](CW20-OpeningRemarks.ics) | | |
