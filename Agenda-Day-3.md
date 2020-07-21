@@ -1,6 +1,8 @@
 
 ## 2020 Collegeville Workshop Agenda, Thursday, July 23, 2020
 
+[**Zoom Connection Information**](https://docs.google.com/document/d/1c7KDU-re5Ux0_vf01LRXedCBUASmDqdzryC2hC31PP8/edit?usp=sharing)
+
 | **Time (US CDT)**| **July 23** |
 |---|---|
 | 9:45 am  | **Panel 3: Cultural Approaches to Improved Productivity** <br> **Panelists:** <br> Sandra Gesing, U of Notre Dame <br> Mary Ann Leung, Sustainable Horizons <br> JP Lehr, TU Darmstadt <br> Mark Miller, Lawrence Livermore National Lab <br> Reed Milewicz, Sandia National Lab <br> Vanessa Sochat, Stanford <br> [**(Add to calendar)**](CW20-Panel-3-Cultural-Approaches.ics) |
