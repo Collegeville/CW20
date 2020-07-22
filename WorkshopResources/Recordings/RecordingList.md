@@ -7,7 +7,10 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 ## Recordings
 All recorded content is kept on [this playlist](https://www.youtube.com/playlist?list=PLSsqt6vUDjJ2lf4vs8xsX0YpBt-S-0c8t) as part of the [Collegeville Youtube Channel](https://www.youtube.com/channel/UCSf7qBvL-FINhgY5xPc-8sw)
 
-## List of Slides:
+## Day 1 Panel Recording
+Here is a link to the raw Zoom recording from the Day 1 Panel: [Zoom Video](https://csbsju.zoom.us/rec/share/-JNKE5O3q2hJaZHP-HnYBZF9JILZaaa82yAar_INnxyJtjizfpFweuA_FX13jYcL)
+
+## Links to specific YouTube Videos - List of Slides:
 
 - [Beattie, Gunter: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](https://www.youtube.com/watch?v=X-I6VdMRNkU&t=4s) - [Slides](beattie-gunter-useful-practices-for-swe.pdf)
 - [Carver, Jeff: Peer Code Review for Scientific Software](https://www.youtube.com/watch?v=BB67E7naHGo&t=3s) - [Slides](carver-peer-code-review.pdf)
