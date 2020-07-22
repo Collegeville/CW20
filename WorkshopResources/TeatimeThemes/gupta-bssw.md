@@ -12,4 +12,4 @@ Join the BSSw community!  This session will promote open discussion of how the c
 Supplementary information:
 1. [A Community Invitation: BSSw.io, a platform for sharing information about scientific software productivity and sustainability](../WhitePapers/gupta-mcinnes-bssw.pdf)
 1. [BSSw.io: So Your Code Will See the Future](../Posters/gupta-bssw-overview.pdf)
-1. [IDEAS-ECP: Advancing Software Productivity for Exascale Applications](gupta-ideas-overview.pdf)
+1. [IDEAS-ECP: Advancing Software Productivity for Exascale Applications](../Posters/gupta-ideas-overview.pdf)
