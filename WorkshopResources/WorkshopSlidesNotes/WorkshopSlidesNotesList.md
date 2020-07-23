@@ -22,6 +22,6 @@
 
 ### Day 3
 - [Milewicz Group Day 3 Discussion](https://docs.google.com/document/d/1f3LeB8l7rwxCglKssbhhqlSc_tCCqHlJrvw1reNxf9Y/edit?usp=sharing)
-[Morales-Garcia Group Day 3 Discussion](https://docs.google.com/document/d/1ArLHNMmtyPbRSO_y1z_rSVigtK2tdhVnCWrhOOq5qsE/edit?usp=sharing)
+- [Morales-Garcia Group Day 3 Discussion](https://docs.google.com/document/d/1ArLHNMmtyPbRSO_y1z_rSVigtK2tdhVnCWrhOOq5qsE/edit?usp=sharing)
 
 #### [Back to Main Page](../../index.md)
