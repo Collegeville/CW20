@@ -8,7 +8,11 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 All recorded content is kept on [this playlist](https://www.youtube.com/playlist?list=PLSsqt6vUDjJ2lf4vs8xsX0YpBt-S-0c8t) as part of the [Collegeville Youtube Channel](https://www.youtube.com/channel/UCSf7qBvL-FINhgY5xPc-8sw)
 
 ## Day 1 Panel Recording
-Here is a link to the raw Zoom recording from the Day 1 Panel: [Zoom Video](https://csbsju.zoom.us/rec/share/-JNKE5O3q2hJaZHP-HnYBZF9JILZaaa82yAar_INnxyJtjizfpFweuA_FX13jYcL)
+Here is a link to the raw Zoom recording from the panels:
+- [Day 1 Panel Zoom Video](https://csbsju.zoom.us/rec/share/-JNKE5O3q2hJaZHP-HnYBZF9JILZaaa82yAar_INnxyJtjizfpFweuA_FX13jYcL)
+- [Day 2 Panel Zoom Video - note: video started late, sorry](https://csbsju.zoom.us/rec/share/y85MP67h11lLRNLP8nOYQK8AEZX5X6a80Sce_PENmhuYl_cGe2syuWPZ7ObazwQx?startTime=1595430753000)
+- [Day 3 Panel Zoom Video](https://csbsju.zoom.us/rec/share/u917AK_58WZOf6-V4luDXfAeOpbHX6a8hiVP-PEEmU4s0OEX8K7ZXppLEE1eCMWo)
+
 
 ## Links to specific YouTube Videos - List of Slides:
 
