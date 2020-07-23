@@ -15,7 +15,7 @@
   - [**Teatime Themes**](WorkshopResources/TeatimeThemes/TeatimeThemeList.md)
   - [**White Papers**](WorkshopResources/WhitePapers/WhitePaperList.md)
   - [**Panel Slides and Discussion Notes**](WorkshopResources/WorkshopSlidesNotes/WorkshopSlidesNotesList.md)
-- [**Registration (Still Open)**](Registration.md)
+- [**Attendees**](Attendees.md)
 - [**Sign up for Collegeville 2021!**](Registration2021.md)
 - [**About**](About.md)
 - [**Background**](Background.md)
