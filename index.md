@@ -5,6 +5,8 @@
 
 
 ### Details
+- [**Workshop Survey**](https://forms.gle/vkrCnQuhdUpgETBX9)
+
 - [**Agenda Overview**](Agenda.md)
   - [**Tuesday, July 21 Detailed Agenda**](Agenda-Day-1.md)
   - [**Wednesday, July 22 Detailed Agenda**](Agenda-Day-2.md)
