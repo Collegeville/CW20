@@ -20,4 +20,8 @@
 - [Knepper Group Day 2 Discussion](https://docs.google.com/document/d/1gfpVzEHtmzFczItXsczKX5LL_yHQGoomEoZpq2_WBFE/edit?usp=sharing)
 - [Woodward Group Day 2 Discussion](https://docs.google.com/document/d/1TMz8soCqoEkVydtStzFxMzUjL7OA7qcE060E7KMG7hU/edit?usp=sharing)
 
+### Day 3
+- [Milewicz Group Day 3 Discussion](https://docs.google.com/document/d/1f3LeB8l7rwxCglKssbhhqlSc_tCCqHlJrvw1reNxf9Y/edit?usp=sharing)
+[Morales-Garcia Group Day 3 Discussion](https://docs.google.com/document/d/1ArLHNMmtyPbRSO_y1z_rSVigtK2tdhVnCWrhOOq5qsE/edit?usp=sharing)
+
 #### [Back to Main Page](../../index.md)
