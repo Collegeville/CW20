@@ -25,6 +25,4 @@
 
 - [**Contribute (Closed)**](Contribute.md)
 - [**Recorded Contributions Instructions (Closed)**](WorkshopResources/Recordings/Instructions.md)
-- Contact: Mike Heroux
-  - <maherou@sandia.gov>
-  - +1 505 379 5518
+- Contact: [Mike Heroux](https://maherou.github.io)
