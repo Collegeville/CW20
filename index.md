@@ -23,6 +23,7 @@
 - [**Organizers**](Organizers.md)
 - [**Collegeville Workshop Series**](https://collegeville.github.io/Workshops/)
 
+- [**Registration (Closed)**](Registration.md)
 - [**Contribute (Closed)**](Contribute.md)
 - [**Recorded Contributions Instructions (Closed)**](WorkshopResources/Recordings/Instructions.md)
 - Contact: [Mike Heroux](https://maherou.github.io)
