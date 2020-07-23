@@ -3,8 +3,8 @@
 ## Panel Slides
 
 - [Day 1 Panel: Opening Remarks Productivity Definitions and Challenges](CW20-OpeningRemarksPanel1.pdf)
-- [Day 2 Panel: Technical Approaches to Improving Productivity](CW-20-Panel2.pdf)
-- [Day 3 Panel: Cultural Approaches to Improving Productivity](CW-20-Panel3.pdf)
+- [Day 2 Panel: Technical Approaches to Improving Productivity](CW20-Panel2.pdf)
+- [Day 3 Panel: Cultural Approaches to Improving Productivity](CW20-Panel3.pdf)
 - [Day 3: Closing Remarks - Coming](CW20-ClosingRemarks.pdf)
 
 ## List of Discussion Notes:
