@@ -13,6 +13,7 @@
 - [Gunter Group Day 1 Discussion](https://docs.google.com/document/d/1c2oxpv4O48CKizpOLk50Ayla16wt36kT2zs244FwoM0/edit?usp=sharing)
 - [Knepper Group Day 1 Discussion](https://docs.google.com/document/d/1Id7rR-pISlUfSCp83-lX16SmoeC7ehB7xh2Ou7QxeGA/edit?usp=sharing)
 - [Milewicz Group Day 1 Discussion](https://docs.google.com/document/d/1TJKT71jVb5_HpCndN-V6HNBBP5JqxG6ckZMW3BQD4Cc/edit?usp=sharing)
+- [Gonsiorowski Group Day 1 Discussion](./gonsiorowski-discussion-day-1.md)
 
 ### Day 2
 - [Atkins Group Day 2 Discussion](https://docs.google.com/document/d/1WZaxIGasM8aeyoE7KyXDjtGsxtYMuqlCKzfLncd2R2o/edit?usp=sharing)
