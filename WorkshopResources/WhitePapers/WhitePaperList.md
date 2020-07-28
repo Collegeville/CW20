@@ -23,7 +23,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 1. [Gates J., Braun J., Collins D.: One Script to Rule Them All:  Unifying Build Processes Across Platforms](gates-unifying-build-processes.pdf) - [Video](https://www.youtube.com/watch?v=OyJ0AnesaRw&t=59s)
 1. [Gesing, Sandra: Increasing Developer Productivity by Assigning Well-Defined Roles in Teams](gesing-team-organization.pdf) - [Video](https://www.youtube.com/watch?v=gUMcU2KchIc&t=8s)
 1. [Gunter, Dan, and Beattie, Keith: Useful Practices for Software Engineering on Medium-sized Distributed Scientific Projects](gunter-beattie-useful-practices.pdf) - [Video](https://www.youtube.com/watch?v=X-I6VdMRNkU&t=7s)
-1. [Gupta, Rinku, McInnes, Lois C.:A Community Invitation: BSSw.io, a platform for sharing information about scientific software productivity and sustainability](gputa-mcinnes-bssw.pdf)
+1. [Gupta, Rinku, McInnes, Lois C.:A Community Invitation: BSSw.io, a platform for sharing information about scientific software productivity and sustainability](gupta-mcinnes-bssw.pdf)
 1. [Heroux, M., Willenbring, J., Shende, S., Coti, C., Spear, W., Peyralans, L., Skutnik, J. and Keever, E.  : E4S: Extreme-scale Scientific Software Stack](heroux-willenbring-shende-coti-spear-et-al-E4S.pdf) - [Video](https://www.youtube.com/watch?v=f1dALAXBcsg&t=10s)
 1. [Huebl, Axel: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
 1. [Katz, Daniel S., Chard, K., Badia, Rosa M., and Ejarque, Jorge: A common workflow registry of compute endpoints and applications](katz_registry.pdf) - [Video](https://www.youtube.com/watch?v=ToP0_PaNhss&t=14s)
