@@ -7,7 +7,21 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 ## Recordings
 All recorded content is kept on [this playlist](https://www.youtube.com/playlist?list=PLSsqt6vUDjJ2lf4vs8xsX0YpBt-S-0c8t) as part of the [Collegeville Youtube Channel](https://www.youtube.com/channel/UCSf7qBvL-FINhgY5xPc-8sw)
 
-## Day 1 Panel Recording
+## Interviews
+- [Nur Fadel, CSCS](https://youtu.be/unxJJVACQPA)
+- [Sandia Software Engineering and Research Department](https://youtu.be/3Ax6Bwij-8Q)
+- [Rick Arthur, GE](https://youtu.be/GBc1tdfE8tY)
+- [Sarah Knepper, Intel](https://youtu.be/JyBGT5EzMpU)
+- [Elaine Raybourn, Sandia, Vanessa Sochet, Stanford](https://youtu.be/FIQ7D9rUZ40)
+- [Wolfgang Bangerth, Colorado State](https://youtu.be/mOKbMcfGcCk)
+- [Rinku Gupta, Argonne](https://youtu.be/YFrRkw26nCg)
+- [Elsa Gonsiorowski, LLNL](https://youtu.be/TX9dpvTnrv4)
+- [Jay Billings, Addi Malviya, John Hendrick, ORNL](https://youtu.be/WBnOLtac4B4)
+- [Anshu Dubey, Argonne](https://youtu.be/LoUklzYK_5E)
+- [Pat Quillen, MathWorks](https://youtu.be/PNqk4wLTo_k)
+- [Michael Garland, Nvidia](https://youtu.be/DrbIJNYYf98)
+
+## Panel Recordings
 Here is a link to the raw Zoom recording from the panels:
 - [Day 1 Panel Zoom Video](https://csbsju.zoom.us/rec/share/-JNKE5O3q2hJaZHP-HnYBZF9JILZaaa82yAar_INnxyJtjizfpFweuA_FX13jYcL)
 - [Day 2 Panel Zoom Video - note: video started late, sorry](https://csbsju.zoom.us/rec/share/y85MP67h11lLRNLP8nOYQK8AEZX5X6a80Sce_PENmhuYl_cGe2syuWPZ7ObazwQx?startTime=1595430753000)
