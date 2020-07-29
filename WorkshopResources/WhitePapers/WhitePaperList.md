@@ -28,7 +28,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 1. [Huebl, Axel: Working with Multiple Package Managers](huebl-working-with-multiple-pkg-mgrs.pdf)
 1. [Katz, Daniel S., Chard, K., Badia, Rosa M., and Ejarque, Jorge: A common workflow registry of compute endpoints and applications](katz_registry.pdf) - [Video](https://www.youtube.com/watch?v=ToP0_PaNhss&t=14s)
 1. [Lehr, JP, Maric, T., Bothe, D. and Bischof, C.: Increasing the quality of (academic) scientific software](lehr-maric-bothe-bischof-increasing-the-quality-of-academic-scientific-software.pdf) - [Video](https://www.youtube.com/watch?v=JuBbP8ajjNA&t=715s)
-1. [Leung, Mary Ann and Rouson, Damian with McInnes, Lois C.](leung-broadening-participation-cse-hpc.md)
+1. [Leung, Mary Ann and Rouson, Damian with McInnes, Lois C.](leung-broadening-participation-cse-hpc.pdf)
 1. [Levine, Aaron and Willenbring, James: Navigating the Rapids: Creating a Continuous Integration System for GitHub and Jenkins](levine-willenbring-ci-systems-github-jenkins.pdf) - [Video](https://www.youtube.com/watch?v=AdQNzAG-KIs)
 1. [Luszczek, Piotr: Productivity, Portability, and Performance: Pick any two in Uncertain Hardware Landscape?](luszczek-p3-pick-two.pdf) - [Video](https://www.youtube.com/watch?v=D_-B0y0x7qw&t=4s)
 1. [Miller, Mark: SRE+UXDD to Improve Productivity of Customer Support Processes](miller-software-reliability-engineering.md) - [Video](https://www.youtube.com/watch?v=0oOh0XjM1j8&list=PLSsqt6vUDjJ2lf4vs8xsX0YpBt-S-0c8t&index=31)
