@@ -22,7 +22,8 @@
 - [Woodward Group Day 2 Discussion](https://docs.google.com/document/d/1TMz8soCqoEkVydtStzFxMzUjL7OA7qcE060E7KMG7hU/edit?usp=sharing)
 
 ### Day 3
-- [Gates Group Day 3 Discussion](https://docs.google.com/document/d/1ArLHNMmtyPbRSO_y1z_rSVigtK2tdhVnCWrhOOq5qsE/edit?usp=sharing)
+- [Gates Group Day 3 Discussion](https://docs.google.com/document/d/1vd_VP_XIiYWyApgxIK3BSGS68lqzKwAt_b-3zNSX6g0/edit?usp=sharing)
+- [Knepper Group Day 3](https://docs.google.com/document/d/1vwXpngXt8TZcjhJXZMbCTfeMK-I9O3zpEtEejvEydS4/edit?usp=sharing)
 - [Milewicz Group Day 3 Discussion](https://docs.google.com/document/d/1f3LeB8l7rwxCglKssbhhqlSc_tCCqHlJrvw1reNxf9Y/edit?usp=sharing)
 - [Morales-Garcia Group Day 3 Discussion](https://docs.google.com/document/d/1ArLHNMmtyPbRSO_y1z_rSVigtK2tdhVnCWrhOOq5qsE/edit?usp=sharing)
 
