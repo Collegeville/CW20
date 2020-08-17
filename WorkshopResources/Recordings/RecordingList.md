@@ -39,4 +39,5 @@ Here is a link to the raw Zoom recording from the panels:
 - [Finkel, Hal: The Many Faces of the Productivity Challenge in Scientific Software](https://www.youtube.com/watch?v=vzB86kZ_448&t=953s) - [Slides](finkel-many-faces-of-productivity-challenge.pdf)
 - [Gamblin, Todd: Software Integration Challenges](https://www.youtube.com/watch?v=RrkFWhned3U&t=30s) - [Slides](software-integration-challenges-collegeville2020.pdf)
 - [Gesing, Sandra: Increasing Developer Productivity by Assigning Well-Defined Roles in Teams](https://www.youtube.com/watch?v=gUMcU2KchIc&t=6s) - [Slides](gesing-developer-productivity-well-defined-team-roles.pdf)
+- [Miller, Mark C.: SRE+UXDD to Improve Productivity of User Support Processes](https://youtu.be/0oOh0XjM1j8) - [Slides](mcmiller-sre+uxdd-customer-support-productivity.pdf )
 #### [Back to Main Page](../../index.md)
