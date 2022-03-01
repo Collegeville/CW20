@@ -1,7 +1,7 @@
 
 # Collegeville 2020 Home
 
-![](assets/CollegevilleWorkshopBanner.pdf)
+![](assets/CollegevilleWorkshopBanner.jpg)
 
 
 ### Details
