@@ -5,7 +5,7 @@
 focussing on Developer Productivity.*
 
 [Jason M. Gates](mailto:jmgate@sandia.gov);
-[*Sandia National Laboratories*](www.sandia.gov)
+[*Sandia National Laboratories*](https://www.sandia.gov)
 
 In the ever-changing landscape that is the scientific software domain,
 continual learning on the job is just a fact of life.  We've all taken our fair

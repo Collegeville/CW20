@@ -19,7 +19,7 @@ effort and evolution of best practices to craft and carry out
 *small corrective actions*, often in the form of improved automation, aimed at
 continuously improving the software and/or its processes and artifacts. This focus
 and these activities represent a
-[fusion](https://medium.com/@aHev/why-ux-researchers-should-learn-sre-practices-a2b213e69a8a>)
+[fusion](https://medium.com/@aHev/why-ux-researchers-should-learn-sre-practices-a2b213e69a8a)
 of aspects of Google's [Site Reliability Engineering][SRE] process (sometimes also
 called
 [Systems Reliability Engineering or Services Reliability Engineering](https://www.cio.com/article/3192531/why-you-need-a-systems-reliability-engineer.html))
